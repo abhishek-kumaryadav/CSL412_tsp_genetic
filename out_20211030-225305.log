@@ -1,0 +1,32 @@
+[2021-10-30 22:53:05,543 | [main2] | main() ] Starting execution: 2021/10/30-10:53:05 PM
+[2021-10-30 22:53:05,544 | [main2] | main() ] Parsed arguments: Namespace(input='1', output='20211030-225305', population='1000', mutation='0.75', crossover='3', crossoverrate='1', generation='100', populationinit='1', populationdecayrate=0, parentselection='3', verbose='1')
+[2021-10-30 22:53:05,546 | [graph] | __init__() ] Initialized graph
+[2021-10-30 22:53:06,033 | [genetic] | run_genetic_algorithm() ] Starting genetic algorithm
+[2021-10-30 22:53:06,033 | [genetic] | run_genetic_algorithm() ] Current generation: 1
+[2021-10-30 22:53:07,992 | [genetic] | run_genetic_algorithm() ] #1 generation cost: 4332.0, path: [20. 14.  1. 13. 12. 19.  6. 18. 17.  9. 10. 16.  3. 11.  5.  7.  0. 15.
+  4.  2.  8.], population size: 1000
+[2021-10-30 22:53:07,992 | [genetic] | run_genetic_algorithm() ] Current generation: 2
+[2021-10-30 22:53:10,655 | [genetic] | run_genetic_algorithm() ] #2 generation cost: 3907.0, path: [ 7.  6.  3.  5.  0. 15.  4.  8.  2. 11. 19. 10. 18. 16. 20.  9. 17. 12.
+ 13. 14.  1.], population size: 1000
+[2021-10-30 22:53:10,656 | [genetic] | run_genetic_algorithm() ] Current generation: 3
+[2021-10-30 22:53:13,180 | [genetic] | run_genetic_algorithm() ] #3 generation cost: 3450.0, path: [ 7.  6.  5.  0. 15.  4.  8.  2. 11.  3. 10. 19. 18. 16.  9. 17. 12. 13.
+ 14.  1. 20.], population size: 1000
+[2021-10-30 22:53:13,181 | [genetic] | run_genetic_algorithm() ] Current generation: 4
+[2021-10-30 22:53:15,477 | [genetic] | run_genetic_algorithm() ] #4 generation cost: 3384.0, path: [ 1. 13. 12. 14. 20. 17.  9. 16. 18. 19. 10.  3.  6.  7. 11.  0.  5.  4.
+  8. 15.  2.], population size: 1000
+[2021-10-30 22:53:15,478 | [genetic] | run_genetic_algorithm() ] Current generation: 5
+[2021-10-30 22:53:17,631 | [genetic] | run_genetic_algorithm() ] #5 generation cost: 3266.0, path: [19. 18. 16.  9. 20. 14.  1. 13. 12. 17. 10.  3. 11.  0.  6.  7.  5. 15.
+  4.  8.  2.], population size: 1000
+[2021-10-30 22:53:17,631 | [genetic] | run_genetic_algorithm() ] Current generation: 6
+[2021-10-30 22:53:19,284 | [genetic] | run_genetic_algorithm() ] #6 generation cost: 3266.0, path: [19. 18. 16.  9. 20. 14.  1. 13. 12. 17. 10.  3. 11.  0.  6.  7.  5. 15.
+  4.  8.  2.], population size: 1000
+[2021-10-30 22:53:19,285 | [genetic] | run_genetic_algorithm() ] Current generation: 7
+[2021-10-30 22:53:21,056 | [genetic] | run_genetic_algorithm() ] #7 generation cost: 3166.0, path: [14.  1. 13. 12. 17. 20.  9. 19. 18. 16. 10. 11.  3.  0.  7.  6.  5. 15.
+  4.  8.  2.], population size: 1000
+[2021-10-30 22:53:21,056 | [genetic] | run_genetic_algorithm() ] Current generation: 8
+[2021-10-30 22:53:22,769 | [genetic] | run_genetic_algorithm() ] #8 generation cost: 3158.0, path: [15. 14.  8.  2.  5.  6.  7.  0. 11.  3. 10. 19. 18. 16.  9. 17. 12. 13.
+  4.  1. 20.], population size: 1000
+[2021-10-30 22:53:22,770 | [genetic] | run_genetic_algorithm() ] Current generation: 9
+[2021-10-30 22:53:24,137 | [genetic] | run_genetic_algorithm() ] #9 generation cost: 3110.0, path: [20. 14.  1. 13. 12. 17.  9. 19. 18. 16. 10.  3. 11.  5.  0.  6.  7. 15.
+  4.  8.  2.], population size: 1000
+[2021-10-30 22:53:24,137 | [genetic] | run_genetic_algorithm() ] Current generation: 10

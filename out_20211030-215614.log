@@ -1,0 +1,904 @@
+[2021-10-30 21:56:14,871 | [main2] | main() ] Starting execution: 2021/10/30-09:56:14 PM
+[2021-10-30 21:56:14,872 | [main2] | main() ] Parsed arguments: Namespace(input='1', output='20211030-215614', population='10', mutation='0.75', crossover='3', crossoverrate='1', generation='300', populationinit='1', populationdecayrate=0, parentselection='3', verbose='1')
+[2021-10-30 21:56:14,872 | [graph] | __init__() ] Initialized graph
+[2021-10-30 21:56:14,878 | [genetic] | run_genetic_algorithm() ] Starting genetic algorithm
+[2021-10-30 21:56:14,878 | [genetic] | run_genetic_algorithm() ] Current generation: 1
+[2021-10-30 21:56:14,885 | [genetic] | run_genetic_algorithm() ] #1 generation cost: 5391.0, path: [20. 19.  9.  3. 14.  1. 17. 10.  0. 18. 13. 12. 16. 11.  5.  4.  6.  7.
+ 15.  2.  8.], population size: 10
+[2021-10-30 21:56:14,885 | [genetic] | run_genetic_algorithm() ] Current generation: 2
+[2021-10-30 21:56:14,892 | [genetic] | run_genetic_algorithm() ] #2 generation cost: 5068.0, path: [16. 20. 13. 17. 14.  1.  9. 18.  3. 11.  0. 10. 19.  6.  5.  7. 12. 15.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:14,892 | [genetic] | run_genetic_algorithm() ] Current generation: 3
+[2021-10-30 21:56:14,906 | [genetic] | run_genetic_algorithm() ] #3 generation cost: 4813.0, path: [18. 16. 17.  9. 13. 12. 10. 19. 20. 14.  3.  0. 11.  6.  5.  7. 15.  1.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:14,906 | [genetic] | run_genetic_algorithm() ] Current generation: 4
+[2021-10-30 21:56:14,913 | [genetic] | run_genetic_algorithm() ] #4 generation cost: 4522.0, path: [16. 18.  3. 11.  0. 10. 19.  6.  5.  7.  9. 17. 14.  1. 13. 20. 12. 15.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:14,913 | [genetic] | run_genetic_algorithm() ] Current generation: 5
+[2021-10-30 21:56:14,920 | [genetic] | run_genetic_algorithm() ] #5 generation cost: 3863.0, path: [20. 13. 14.  1. 19.  6.  5.  7. 11.  0.  3. 18. 16.  9. 17. 12. 10. 15.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:14,920 | [genetic] | run_genetic_algorithm() ] Current generation: 6
+[2021-10-30 21:56:14,927 | [genetic] | run_genetic_algorithm() ] #6 generation cost: 3863.0, path: [20. 13. 14.  1. 19.  6.  5.  7. 11.  0.  3. 18. 16.  9. 17. 12.  4. 15.
+ 10.  8.  2.], population size: 10
+[2021-10-30 21:56:14,927 | [genetic] | run_genetic_algorithm() ] Current generation: 7
+[2021-10-30 21:56:14,942 | [genetic] | run_genetic_algorithm() ] #7 generation cost: 3863.0, path: [20. 13. 14.  1. 19.  6.  5.  7. 11.  0.  3. 18. 16.  9.  4. 12. 10. 15.
+ 17.  8.  2.], population size: 10
+[2021-10-30 21:56:14,942 | [genetic] | run_genetic_algorithm() ] Current generation: 8
+[2021-10-30 21:56:14,950 | [genetic] | run_genetic_algorithm() ] #8 generation cost: 3863.0, path: [20. 13. 14.  1. 19.  6.  5.  7. 11.  0. 15. 18. 16.  9.  4. 12. 10.  3.
+ 17.  8.  2.], population size: 10
+[2021-10-30 21:56:14,950 | [genetic] | run_genetic_algorithm() ] Current generation: 9
+[2021-10-30 21:56:14,956 | [genetic] | run_genetic_algorithm() ] #9 generation cost: 3863.0, path: [20. 13. 14.  1. 19.  6.  5.  7. 11.  0. 16. 18.  3.  9.  4. 12. 10. 15.
+ 17.  8.  2.], population size: 10
+[2021-10-30 21:56:14,957 | [genetic] | run_genetic_algorithm() ] Current generation: 10
+[2021-10-30 21:56:14,967 | [genetic] | run_genetic_algorithm() ] #10 generation cost: 3863.0, path: [20. 13. 14.  1. 19.  6.  5. 16. 11.  0.  3. 18.  7.  9.  4. 12. 10. 15.
+ 17.  8.  2.], population size: 10
+[2021-10-30 21:56:14,968 | [genetic] | run_genetic_algorithm() ] Current generation: 11
+[2021-10-30 21:56:14,975 | [genetic] | run_genetic_algorithm() ] #11 generation cost: 3863.0, path: [20. 13. 14.  1. 19.  6.  5.  7. 11.  0.  3. 18. 16.  9.  4. 12. 10. 15.
+ 17.  8.  2.], population size: 10
+[2021-10-30 21:56:14,976 | [genetic] | run_genetic_algorithm() ] Current generation: 12
+[2021-10-30 21:56:14,983 | [genetic] | run_genetic_algorithm() ] #12 generation cost: 3863.0, path: [20. 13. 14.  1. 19.  6.  5.  7. 11.  0. 16. 18.  3.  9.  4. 12. 10. 15.
+ 17.  8.  2.], population size: 10
+[2021-10-30 21:56:14,983 | [genetic] | run_genetic_algorithm() ] Current generation: 13
+[2021-10-30 21:56:14,990 | [genetic] | run_genetic_algorithm() ] #13 generation cost: 3863.0, path: [20. 13. 14.  1. 19.  6.  5. 16. 11.  0.  3.  7. 18.  9.  4. 12. 10. 15.
+  8. 17.  2.], population size: 10
+[2021-10-30 21:56:14,990 | [genetic] | run_genetic_algorithm() ] Current generation: 14
+[2021-10-30 21:56:15,000 | [genetic] | run_genetic_algorithm() ] #14 generation cost: 3863.0, path: [20. 13. 14.  1. 19.  6. 11. 16.  5.  0.  3. 18.  7.  9.  4. 12. 10. 15.
+ 17.  8.  2.], population size: 10
+[2021-10-30 21:56:15,001 | [genetic] | run_genetic_algorithm() ] Current generation: 15
+[2021-10-30 21:56:15,011 | [genetic] | run_genetic_algorithm() ] #15 generation cost: 3863.0, path: [20. 13. 14.  1. 19.  6.  5.  7. 11.  0.  3. 18. 16.  9. 17. 12. 10. 15.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:15,011 | [genetic] | run_genetic_algorithm() ] Current generation: 16
+[2021-10-30 21:56:15,018 | [genetic] | run_genetic_algorithm() ] #16 generation cost: 3863.0, path: [20. 13. 14.  1. 19.  6.  5.  7. 11.  0.  3. 18. 16.  9.  8. 12. 10. 15.
+  4. 17.  2.], population size: 10
+[2021-10-30 21:56:15,018 | [genetic] | run_genetic_algorithm() ] Current generation: 17
+[2021-10-30 21:56:15,026 | [genetic] | run_genetic_algorithm() ] #17 generation cost: 3863.0, path: [20. 13. 14.  1. 19.  6.  5.  7. 11.  0. 10. 18. 16.  9.  4. 12. 15.  3.
+ 17.  8.  2.], population size: 10
+[2021-10-30 21:56:15,026 | [genetic] | run_genetic_algorithm() ] Current generation: 18
+[2021-10-30 21:56:15,040 | [genetic] | run_genetic_algorithm() ] #18 generation cost: 3863.0, path: [20. 13. 17.  6. 19.  1.  5. 16. 11.  0.  3. 18.  7.  9.  8. 12. 10. 15.
+ 14.  4.  2.], population size: 10
+[2021-10-30 21:56:15,040 | [genetic] | run_genetic_algorithm() ] Current generation: 19
+[2021-10-30 21:56:15,049 | [genetic] | run_genetic_algorithm() ] #19 generation cost: 3863.0, path: [20. 13. 14.  6. 19. 16.  5.  1. 11. 10.  3. 18.  7.  9.  8. 12.  0. 15.
+ 17.  4.  2.], population size: 10
+[2021-10-30 21:56:15,049 | [genetic] | run_genetic_algorithm() ] Current generation: 20
+[2021-10-30 21:56:15,057 | [genetic] | run_genetic_algorithm() ] #20 generation cost: 3863.0, path: [14. 13. 20.  1.  9.  6.  5. 16. 11.  0.  3. 19. 18.  7.  4. 12. 10. 15.
+  8. 17.  2.], population size: 10
+[2021-10-30 21:56:15,057 | [genetic] | run_genetic_algorithm() ] Current generation: 21
+[2021-10-30 21:56:15,070 | [genetic] | run_genetic_algorithm() ] #21 generation cost: 3863.0, path: [20. 13. 14.  6. 19.  1.  5. 16. 11.  0.  3. 18.  7.  9.  8. 12. 10. 15.
+ 17.  4.  2.], population size: 10
+[2021-10-30 21:56:15,070 | [genetic] | run_genetic_algorithm() ] Current generation: 22
+[2021-10-30 21:56:15,076 | [genetic] | run_genetic_algorithm() ] #22 generation cost: 3863.0, path: [20. 12. 14.  1. 19.  6.  5.  9. 11.  0.  3. 18. 16.  7. 17. 13. 15. 10.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:15,077 | [genetic] | run_genetic_algorithm() ] Current generation: 23
+[2021-10-30 21:56:15,084 | [genetic] | run_genetic_algorithm() ] #23 generation cost: 3863.0, path: [20. 13. 14.  1. 19.  6.  5.  9.  4.  0.  3. 18. 16.  7. 17. 12. 10. 15.
+ 11.  8.  2.], population size: 10
+[2021-10-30 21:56:15,084 | [genetic] | run_genetic_algorithm() ] Current generation: 24
+[2021-10-30 21:56:15,090 | [genetic] | run_genetic_algorithm() ] #24 generation cost: 3863.0, path: [20. 12. 14.  1. 19.  6.  5. 11.  9.  0.  3. 18. 16.  7. 17. 13. 10. 15.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:15,090 | [genetic] | run_genetic_algorithm() ] Current generation: 25
+[2021-10-30 21:56:15,103 | [genetic] | run_genetic_algorithm() ] #25 generation cost: 3863.0, path: [20. 16. 14.  5. 19.  6.  1.  7. 11.  0.  3. 18. 13.  9. 17. 12. 10. 15.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:15,103 | [genetic] | run_genetic_algorithm() ] Current generation: 26
+[2021-10-30 21:56:15,110 | [genetic] | run_genetic_algorithm() ] #26 generation cost: 3863.0, path: [20. 16. 14.  1. 19.  6.  5. 12. 11.  0.  3. 18. 13.  7. 17.  9. 10. 15.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:15,110 | [genetic] | run_genetic_algorithm() ] Current generation: 27
+[2021-10-30 21:56:15,117 | [genetic] | run_genetic_algorithm() ] #27 generation cost: 3608.0, path: [15.  4.  8.  2.  5. 11.  3.  0.  7.  6. 10. 19. 18. 16. 20.  9. 17. 12.
+ 13.  1. 14.], population size: 10
+[2021-10-30 21:56:15,117 | [genetic] | run_genetic_algorithm() ] Current generation: 28
+[2021-10-30 21:56:15,124 | [genetic] | run_genetic_algorithm() ] #28 generation cost: 3608.0, path: [15.  4.  1.  2.  5. 11.  3.  0.  7.  6. 10. 19. 18. 16. 20.  9. 17. 12.
+ 13.  8. 14.], population size: 10
+[2021-10-30 21:56:15,124 | [genetic] | run_genetic_algorithm() ] Current generation: 29
+[2021-10-30 21:56:15,136 | [genetic] | run_genetic_algorithm() ] #29 generation cost: 3425.0, path: [17. 12. 13.  1. 14.  9. 20. 19. 18. 16. 10.  3.  0.  7.  6. 11.  5. 15.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:15,136 | [genetic] | run_genetic_algorithm() ] Current generation: 30
+[2021-10-30 21:56:15,143 | [genetic] | run_genetic_algorithm() ] #30 generation cost: 3425.0, path: [17. 12. 13.  1. 14.  9. 20. 19. 18. 16. 10. 11.  0.  7.  6.  3.  5. 15.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:15,143 | [genetic] | run_genetic_algorithm() ] Current generation: 31
+[2021-10-30 21:56:15,151 | [genetic] | run_genetic_algorithm() ] #31 generation cost: 3425.0, path: [17. 12. 13.  1. 14.  9. 20. 19. 18. 16. 10. 11.  0.  7.  6.  3.  5. 15.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:15,151 | [genetic] | run_genetic_algorithm() ] Current generation: 32
+[2021-10-30 21:56:15,158 | [genetic] | run_genetic_algorithm() ] #32 generation cost: 3425.0, path: [11. 12. 13.  1. 14.  9. 20. 19. 18. 16. 10.  3.  0.  7.  6. 17.  5. 15.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:15,158 | [genetic] | run_genetic_algorithm() ] Current generation: 33
+[2021-10-30 21:56:15,170 | [genetic] | run_genetic_algorithm() ] #33 generation cost: 3425.0, path: [17. 12. 13.  1. 14.  9. 20. 19. 18. 16. 10. 11.  0.  7.  6.  3.  5. 15.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:15,171 | [genetic] | run_genetic_algorithm() ] Current generation: 34
+[2021-10-30 21:56:15,177 | [genetic] | run_genetic_algorithm() ] #34 generation cost: 3425.0, path: [17. 12. 13.  1. 14.  9. 20. 19. 18. 16. 10. 11.  3.  7.  6.  0.  5. 15.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:15,177 | [genetic] | run_genetic_algorithm() ] Current generation: 35
+[2021-10-30 21:56:15,183 | [genetic] | run_genetic_algorithm() ] #35 generation cost: 3425.0, path: [17. 12. 13.  1. 14.  9. 20. 19. 15. 16. 10.  3.  0. 18.  6. 11.  5.  7.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:15,184 | [genetic] | run_genetic_algorithm() ] Current generation: 36
+[2021-10-30 21:56:15,190 | [genetic] | run_genetic_algorithm() ] #36 generation cost: 3425.0, path: [17. 12. 13.  1. 14.  9. 20. 19. 18.  7. 10. 11.  0. 16.  6.  3.  5. 15.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:15,190 | [genetic] | run_genetic_algorithm() ] Current generation: 37
+[2021-10-30 21:56:15,203 | [genetic] | run_genetic_algorithm() ] #37 generation cost: 3425.0, path: [17. 12. 13.  1. 14.  9. 20. 19. 18. 16. 10.  3.  0.  7.  6. 11.  5. 15.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:15,203 | [genetic] | run_genetic_algorithm() ] Current generation: 38
+[2021-10-30 21:56:15,209 | [genetic] | run_genetic_algorithm() ] #38 generation cost: 3425.0, path: [ 9. 19. 13.  1. 14. 11. 20. 12. 15. 16. 10.  3.  0.  7.  6. 17.  5. 18.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:15,209 | [genetic] | run_genetic_algorithm() ] Current generation: 39
+[2021-10-30 21:56:15,217 | [genetic] | run_genetic_algorithm() ] #39 generation cost: 3425.0, path: [ 9. 12. 13.  1. 14. 11. 20. 19. 15. 16. 10.  3.  0.  7.  6. 17.  5. 18.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:15,217 | [genetic] | run_genetic_algorithm() ] Current generation: 40
+[2021-10-30 21:56:15,223 | [genetic] | run_genetic_algorithm() ] #40 generation cost: 3425.0, path: [11. 12. 13.  1. 16.  9. 20. 19. 18. 14.  8.  3.  0.  7.  6. 17.  5. 15.
+  4. 10.  2.], population size: 10
+[2021-10-30 21:56:15,223 | [genetic] | run_genetic_algorithm() ] Current generation: 41
+[2021-10-30 21:56:15,236 | [genetic] | run_genetic_algorithm() ] #41 generation cost: 3425.0, path: [17. 18. 13.  1. 14.  9. 20. 19. 12. 16. 10.  3.  0.  7.  6. 11.  5. 15.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:15,236 | [genetic] | run_genetic_algorithm() ] Current generation: 42
+[2021-10-30 21:56:15,244 | [genetic] | run_genetic_algorithm() ] #42 generation cost: 3425.0, path: [17. 12. 13. 10. 14.  9.  7. 19. 18. 16.  1.  3.  0. 15.  6. 11.  5. 20.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:15,245 | [genetic] | run_genetic_algorithm() ] Current generation: 43
+[2021-10-30 21:56:15,252 | [genetic] | run_genetic_algorithm() ] #43 generation cost: 3425.0, path: [ 9. 19. 13. 14.  1. 11. 20. 12. 15. 16. 10.  3.  0.  7.  6. 17.  5. 18.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:15,252 | [genetic] | run_genetic_algorithm() ] Current generation: 44
+[2021-10-30 21:56:15,260 | [genetic] | run_genetic_algorithm() ] #44 generation cost: 3425.0, path: [ 9.  6. 16.  1. 14.  0. 20. 19. 18. 13. 10.  3. 11.  7. 12. 17.  5. 15.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:15,260 | [genetic] | run_genetic_algorithm() ] Current generation: 45
+[2021-10-30 21:56:15,274 | [genetic] | run_genetic_algorithm() ] #45 generation cost: 3425.0, path: [17. 12. 13.  1. 14.  9.  7. 19. 18. 16. 10.  3.  0. 15.  6. 11.  5. 20.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:15,274 | [genetic] | run_genetic_algorithm() ] Current generation: 46
+[2021-10-30 21:56:15,282 | [genetic] | run_genetic_algorithm() ] #46 generation cost: 3425.0, path: [ 9.  6. 16.  1. 14.  0. 20.  4. 18. 13. 10.  3. 11.  7. 12. 17.  5. 15.
+ 19.  8.  2.], population size: 10
+[2021-10-30 21:56:15,282 | [genetic] | run_genetic_algorithm() ] Current generation: 47
+[2021-10-30 21:56:15,289 | [genetic] | run_genetic_algorithm() ] #47 generation cost: 3425.0, path: [17.  4. 13.  1. 14.  9. 20. 19. 12. 16. 10.  5.  0.  7.  6. 11.  3. 15.
+ 18.  8.  2.], population size: 10
+[2021-10-30 21:56:15,289 | [genetic] | run_genetic_algorithm() ] Current generation: 48
+[2021-10-30 21:56:15,303 | [genetic] | run_genetic_algorithm() ] #48 generation cost: 3425.0, path: [ 9.  7. 16.  1. 14.  0. 20.  4. 18. 13. 10.  3. 11.  6. 12. 17.  5. 15.
+ 19.  8.  2.], population size: 10
+[2021-10-30 21:56:15,303 | [genetic] | run_genetic_algorithm() ] Current generation: 49
+[2021-10-30 21:56:15,311 | [genetic] | run_genetic_algorithm() ] #49 generation cost: 3425.0, path: [ 9. 19. 13. 14.  1. 11.  5. 18. 15. 16. 10.  3.  0.  7.  6. 17. 20. 12.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:15,311 | [genetic] | run_genetic_algorithm() ] Current generation: 50
+[2021-10-30 21:56:15,318 | [genetic] | run_genetic_algorithm() ] #50 generation cost: 3425.0, path: [17. 18. 13.  8.  4.  9. 20. 19. 12.  1. 10.  5.  0.  7.  6. 11.  3. 15.
+ 14. 16.  2.], population size: 10
+[2021-10-30 21:56:15,318 | [genetic] | run_genetic_algorithm() ] Current generation: 51
+[2021-10-30 21:56:15,326 | [genetic] | run_genetic_algorithm() ] #51 generation cost: 3425.0, path: [10. 19. 13. 14.  1. 11. 20. 18. 15. 16.  9.  3.  0.  7.  6. 17.  5. 12.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:15,326 | [genetic] | run_genetic_algorithm() ] Current generation: 52
+[2021-10-30 21:56:15,340 | [genetic] | run_genetic_algorithm() ] #52 generation cost: 3425.0, path: [17. 18. 13. 16.  4.  9. 10. 19. 12.  1. 20.  5.  0.  7.  6. 11.  3. 15.
+ 14.  8.  2.], population size: 10
+[2021-10-30 21:56:15,341 | [genetic] | run_genetic_algorithm() ] Current generation: 53
+[2021-10-30 21:56:15,348 | [genetic] | run_genetic_algorithm() ] #53 generation cost: 3425.0, path: [17. 19. 13. 16.  4.  9. 20. 18. 12.  1.  5. 10.  0. 15.  6. 11.  3.  7.
+ 14.  8.  2.], population size: 10
+[2021-10-30 21:56:15,348 | [genetic] | run_genetic_algorithm() ] Current generation: 54
+[2021-10-30 21:56:15,357 | [genetic] | run_genetic_algorithm() ] #54 generation cost: 3425.0, path: [17. 18. 13.  8.  4.  9. 20. 19. 12.  1. 10.  5.  0.  7.  6.  3. 11. 15.
+ 14. 16.  2.], population size: 10
+[2021-10-30 21:56:15,357 | [genetic] | run_genetic_algorithm() ] Current generation: 55
+[2021-10-30 21:56:15,370 | [genetic] | run_genetic_algorithm() ] #55 generation cost: 3425.0, path: [ 1. 19. 13. 14. 10. 11. 20. 18. 17. 16.  9.  3.  0.  7.  8. 15.  5. 12.
+  4.  6.  2.], population size: 10
+[2021-10-30 21:56:15,371 | [genetic] | run_genetic_algorithm() ] Current generation: 56
+[2021-10-30 21:56:15,379 | [genetic] | run_genetic_algorithm() ] #56 generation cost: 3425.0, path: [17. 18. 13.  8.  4.  9. 20. 19. 12.  5. 10.  1.  0.  7.  6.  3. 11. 15.
+ 14. 16.  2.], population size: 10
+[2021-10-30 21:56:15,379 | [genetic] | run_genetic_algorithm() ] Current generation: 57
+[2021-10-30 21:56:15,386 | [genetic] | run_genetic_algorithm() ] #57 generation cost: 3425.0, path: [10. 19. 13. 14.  0. 11. 20. 18. 15. 16.  9. 12.  1.  7.  6. 17.  3.  5.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:15,386 | [genetic] | run_genetic_algorithm() ] Current generation: 58
+[2021-10-30 21:56:15,393 | [genetic] | run_genetic_algorithm() ] #58 generation cost: 3425.0, path: [10. 19. 13. 14.  1. 11. 20. 18. 15. 16.  9. 17.  0.  7.  8.  3.  5. 12.
+  4.  6.  2.], population size: 10
+[2021-10-30 21:56:15,393 | [genetic] | run_genetic_algorithm() ] Current generation: 59
+[2021-10-30 21:56:15,406 | [genetic] | run_genetic_algorithm() ] #59 generation cost: 3425.0, path: [10. 16. 19. 14.  0. 11. 20. 18. 15. 13.  9. 12.  1.  7.  6. 17.  3.  5.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:15,406 | [genetic] | run_genetic_algorithm() ] Current generation: 60
+[2021-10-30 21:56:15,413 | [genetic] | run_genetic_algorithm() ] #60 generation cost: 3425.0, path: [17. 18. 13.  8.  4.  9. 20. 19. 12.  5. 10.  1.  0.  7.  6.  3. 11. 15.
+ 14. 16.  2.], population size: 10
+[2021-10-30 21:56:15,413 | [genetic] | run_genetic_algorithm() ] Current generation: 61
+[2021-10-30 21:56:15,419 | [genetic] | run_genetic_algorithm() ] #61 generation cost: 3425.0, path: [10. 19. 13. 14.  0. 11. 20. 18. 15. 17.  9. 12.  1.  7.  6. 16.  3.  5.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:15,419 | [genetic] | run_genetic_algorithm() ] Current generation: 62
+[2021-10-30 21:56:15,426 | [genetic] | run_genetic_algorithm() ] #62 generation cost: 3425.0, path: [10. 19. 13. 14.  1. 11. 20. 18. 15. 16.  9. 17.  0.  7.  8.  3.  5. 12.
+  4.  6.  2.], population size: 10
+[2021-10-30 21:56:15,426 | [genetic] | run_genetic_algorithm() ] Current generation: 63
+[2021-10-30 21:56:15,440 | [genetic] | run_genetic_algorithm() ] #63 generation cost: 3425.0, path: [ 1.  4. 13.  7. 12. 11. 20. 18. 17. 16.  9.  3.  0. 14.  8. 15.  5.  6.
+ 19. 10.  2.], population size: 10
+[2021-10-30 21:56:15,440 | [genetic] | run_genetic_algorithm() ] Current generation: 64
+[2021-10-30 21:56:15,447 | [genetic] | run_genetic_algorithm() ] #64 generation cost: 3425.0, path: [ 9. 19.  8. 14.  1.  7.  5. 18. 15. 16. 10.  6. 13.  3. 11. 17. 20. 12.
+  4.  0.  2.], population size: 10
+[2021-10-30 21:56:15,447 | [genetic] | run_genetic_algorithm() ] Current generation: 65
+[2021-10-30 21:56:15,455 | [genetic] | run_genetic_algorithm() ] #65 generation cost: 3425.0, path: [10. 19. 13. 14.  1. 11. 20. 18. 15. 16.  9. 17.  0.  7.  8.  3.  5. 12.
+  4.  6.  2.], population size: 10
+[2021-10-30 21:56:15,455 | [genetic] | run_genetic_algorithm() ] Current generation: 66
+[2021-10-30 21:56:15,467 | [genetic] | run_genetic_algorithm() ] #66 generation cost: 3425.0, path: [ 1.  4. 13.  7. 12. 11. 20. 18. 17. 16.  9.  3.  0. 14. 15.  8.  5.  6.
+ 19. 10.  2.], population size: 10
+[2021-10-30 21:56:15,467 | [genetic] | run_genetic_algorithm() ] Current generation: 67
+[2021-10-30 21:56:15,479 | [genetic] | run_genetic_algorithm() ] #67 generation cost: 3425.0, path: [ 9. 19.  8.  1. 14.  7.  5. 18. 15. 16. 10. 17. 13.  3. 11.  6.  4. 20.
+ 12.  0.  2.], population size: 10
+[2021-10-30 21:56:15,479 | [genetic] | run_genetic_algorithm() ] Current generation: 68
+[2021-10-30 21:56:15,485 | [genetic] | run_genetic_algorithm() ] #68 generation cost: 3425.0, path: [ 9.  6.  8.  1. 10.  7.  5. 18. 15. 16. 14. 19. 13.  3. 11. 17.  4. 20.
+ 12.  0.  2.], population size: 10
+[2021-10-30 21:56:15,485 | [genetic] | run_genetic_algorithm() ] Current generation: 69
+[2021-10-30 21:56:15,495 | [genetic] | run_genetic_algorithm() ] #69 generation cost: 3425.0, path: [ 9. 18.  8.  1. 14.  7.  5. 19. 15. 16. 10. 17. 13.  3. 11.  6.  4. 20.
+ 12.  0.  2.], population size: 10
+[2021-10-30 21:56:15,495 | [genetic] | run_genetic_algorithm() ] Current generation: 70
+[2021-10-30 21:56:15,512 | [genetic] | run_genetic_algorithm() ] #70 generation cost: 3425.0, path: [ 9. 19.  8.  1. 10. 11.  5. 18. 15. 16. 14.  6. 13.  3.  7. 17.  4. 20.
+ 12.  0.  2.], population size: 10
+[2021-10-30 21:56:15,513 | [genetic] | run_genetic_algorithm() ] Current generation: 71
+[2021-10-30 21:56:15,520 | [genetic] | run_genetic_algorithm() ] #71 generation cost: 3425.0, path: [10. 19. 13. 15.  0.  1.  4. 18. 14. 16.  5. 12. 11.  7.  9. 17.  3.  6.
+ 20.  8.  2.], population size: 10
+[2021-10-30 21:56:15,520 | [genetic] | run_genetic_algorithm() ] Current generation: 72
+[2021-10-30 21:56:15,529 | [genetic] | run_genetic_algorithm() ] #72 generation cost: 3425.0, path: [10.  4. 13. 15.  0. 11. 20. 18. 14. 16.  5. 12.  1.  7.  9. 17.  3.  6.
+ 19.  8.  2.], population size: 10
+[2021-10-30 21:56:15,529 | [genetic] | run_genetic_algorithm() ] Current generation: 73
+[2021-10-30 21:56:15,546 | [genetic] | run_genetic_algorithm() ] #73 generation cost: 3425.0, path: [ 9.  7.  8.  1. 10. 19.  5. 18. 15. 16. 14.  6. 17.  3. 11. 13.  4. 20.
+ 12.  0.  2.], population size: 10
+[2021-10-30 21:56:15,547 | [genetic] | run_genetic_algorithm() ] Current generation: 74
+[2021-10-30 21:56:15,553 | [genetic] | run_genetic_algorithm() ] #74 generation cost: 3425.0, path: [10.  7. 13. 15.  0. 11. 20.  8. 14. 16.  5. 12.  1. 19.  9. 17.  3.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,553 | [genetic] | run_genetic_algorithm() ] Current generation: 75
+[2021-10-30 21:56:15,560 | [genetic] | run_genetic_algorithm() ] #75 generation cost: 3425.0, path: [10.  4. 13. 15.  0. 11. 20. 18. 14. 19.  5. 12.  1.  7.  9. 17.  3.  6.
+ 16.  8.  2.], population size: 10
+[2021-10-30 21:56:15,560 | [genetic] | run_genetic_algorithm() ] Current generation: 76
+[2021-10-30 21:56:15,575 | [genetic] | run_genetic_algorithm() ] #76 generation cost: 3425.0, path: [ 9.  7.  8.  1. 10. 19.  5. 18. 15. 16. 14.  6. 17.  3. 11. 13.  4. 20.
+ 12.  0.  2.], population size: 10
+[2021-10-30 21:56:15,575 | [genetic] | run_genetic_algorithm() ] Current generation: 77
+[2021-10-30 21:56:15,583 | [genetic] | run_genetic_algorithm() ] #77 generation cost: 3425.0, path: [ 9. 19. 16.  1. 10.  7.  5. 18. 15.  8. 14.  6. 17.  3. 11. 13.  4. 20.
+ 12.  0.  2.], population size: 10
+[2021-10-30 21:56:15,584 | [genetic] | run_genetic_algorithm() ] Current generation: 78
+[2021-10-30 21:56:15,590 | [genetic] | run_genetic_algorithm() ] #78 generation cost: 3425.0, path: [20.  6.  8.  1. 10.  7.  5. 18. 15. 19. 14. 16. 13.  3. 11. 17.  4.  9.
+ 12.  0.  2.], population size: 10
+[2021-10-30 21:56:15,590 | [genetic] | run_genetic_algorithm() ] Current generation: 79
+[2021-10-30 21:56:15,605 | [genetic] | run_genetic_algorithm() ] #79 generation cost: 3425.0, path: [ 9.  6.  8.  1. 10.  7.  5. 18. 15. 19. 14. 16. 13.  3. 11. 17.  4. 20.
+ 12.  0.  2.], population size: 10
+[2021-10-30 21:56:15,605 | [genetic] | run_genetic_algorithm() ] Current generation: 80
+[2021-10-30 21:56:15,613 | [genetic] | run_genetic_algorithm() ] #80 generation cost: 3425.0, path: [ 9. 18.  8.  6. 14.  7.  5. 19. 15. 16. 10. 17. 13.  3. 11.  1.  4. 20.
+ 12.  0.  2.], population size: 10
+[2021-10-30 21:56:15,613 | [genetic] | run_genetic_algorithm() ] Current generation: 81
+[2021-10-30 21:56:15,619 | [genetic] | run_genetic_algorithm() ] #81 generation cost: 3425.0, path: [10.  7. 13. 19.  0. 11. 20.  8. 14. 16.  5. 12.  1. 15.  9. 17.  3.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,620 | [genetic] | run_genetic_algorithm() ] Current generation: 82
+[2021-10-30 21:56:15,626 | [genetic] | run_genetic_algorithm() ] #82 generation cost: 3425.0, path: [20.  6.  8.  1. 10.  7.  5. 18. 15. 19. 14. 16. 13.  3. 11. 17.  0.  9.
+ 12.  4.  2.], population size: 10
+[2021-10-30 21:56:15,626 | [genetic] | run_genetic_algorithm() ] Current generation: 83
+[2021-10-30 21:56:15,641 | [genetic] | run_genetic_algorithm() ] #83 generation cost: 3425.0, path: [10.  7. 13. 19.  0. 12. 20.  8.  9. 16.  5. 11.  1. 15. 14. 17.  3.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,642 | [genetic] | run_genetic_algorithm() ] Current generation: 84
+[2021-10-30 21:56:15,650 | [genetic] | run_genetic_algorithm() ] #84 generation cost: 3425.0, path: [10.  7. 13. 19. 11. 15. 20.  8. 14. 16.  3. 12.  1.  0.  9. 17.  5.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,650 | [genetic] | run_genetic_algorithm() ] Current generation: 85
+[2021-10-30 21:56:15,656 | [genetic] | run_genetic_algorithm() ] #85 generation cost: 3425.0, path: [10.  7. 13. 19.  0. 12. 20.  8.  9. 16.  5. 11.  1. 17. 14. 15.  3.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,657 | [genetic] | run_genetic_algorithm() ] Current generation: 86
+[2021-10-30 21:56:15,671 | [genetic] | run_genetic_algorithm() ] #86 generation cost: 3425.0, path: [10.  7. 13. 19. 11. 15. 20.  8.  9. 16.  3. 12.  1.  0. 14. 17.  5.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,671 | [genetic] | run_genetic_algorithm() ] Current generation: 87
+[2021-10-30 21:56:15,679 | [genetic] | run_genetic_algorithm() ] #87 generation cost: 3425.0, path: [ 3.  7. 13. 15.  0. 19. 20.  8. 14. 16.  5. 12.  1. 11.  9. 17. 10.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,679 | [genetic] | run_genetic_algorithm() ] Current generation: 88
+[2021-10-30 21:56:15,686 | [genetic] | run_genetic_algorithm() ] #88 generation cost: 3425.0, path: [ 7.  3. 13. 19.  0. 15. 20.  8. 16. 14.  5. 12.  1. 11.  9. 17. 10.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,686 | [genetic] | run_genetic_algorithm() ] Current generation: 89
+[2021-10-30 21:56:15,693 | [genetic] | run_genetic_algorithm() ] #89 generation cost: 3425.0, path: [ 3.  7. 13. 15.  0. 19. 20.  8. 14. 16.  5.  6.  1. 11.  9. 17. 10. 12.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,693 | [genetic] | run_genetic_algorithm() ] Current generation: 90
+[2021-10-30 21:56:15,708 | [genetic] | run_genetic_algorithm() ] #90 generation cost: 3425.0, path: [10.  7. 13. 19. 11. 15. 17.  8.  9. 16.  3.  0.  1. 12. 14. 20.  5.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,708 | [genetic] | run_genetic_algorithm() ] Current generation: 91
+[2021-10-30 21:56:15,716 | [genetic] | run_genetic_algorithm() ] #91 generation cost: 3425.0, path: [20.  7. 13. 19.  0. 15.  3.  8. 14. 16.  5. 12.  1. 11.  9. 17. 10.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,716 | [genetic] | run_genetic_algorithm() ] Current generation: 92
+[2021-10-30 21:56:15,722 | [genetic] | run_genetic_algorithm() ] #92 generation cost: 3425.0, path: [10.  7. 13. 19. 11. 15. 20.  8.  9. 16.  3.  6.  1. 12. 14. 17.  5.  0.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,722 | [genetic] | run_genetic_algorithm() ] Current generation: 93
+[2021-10-30 21:56:15,734 | [genetic] | run_genetic_algorithm() ] #93 generation cost: 3425.0, path: [15.  7. 13. 19.  0. 20.  3.  8. 14. 16.  5. 12.  1. 11.  9. 17. 10.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,734 | [genetic] | run_genetic_algorithm() ] Current generation: 94
+[2021-10-30 21:56:15,744 | [genetic] | run_genetic_algorithm() ] #94 generation cost: 3425.0, path: [ 7.  1. 13. 19.  0. 15. 20.  8. 16. 14.  5. 12.  3. 11.  9. 17. 10.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,744 | [genetic] | run_genetic_algorithm() ] Current generation: 95
+[2021-10-30 21:56:15,752 | [genetic] | run_genetic_algorithm() ] #95 generation cost: 3425.0, path: [10.  7. 13. 19. 11. 15. 20.  8.  9. 16.  3.  6.  1. 12. 14. 17.  5.  0.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,753 | [genetic] | run_genetic_algorithm() ] Current generation: 96
+[2021-10-30 21:56:15,759 | [genetic] | run_genetic_algorithm() ] #96 generation cost: 3425.0, path: [14.  1. 13. 19.  0. 15. 20.  8. 16.  7.  5. 12.  3. 11.  9. 17. 10.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,760 | [genetic] | run_genetic_algorithm() ] Current generation: 97
+[2021-10-30 21:56:15,774 | [genetic] | run_genetic_algorithm() ] #97 generation cost: 3425.0, path: [10.  7. 13. 19. 11. 15. 17.  8.  0. 16.  3.  9.  1. 12. 14. 20.  5.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,774 | [genetic] | run_genetic_algorithm() ] Current generation: 98
+[2021-10-30 21:56:15,782 | [genetic] | run_genetic_algorithm() ] #98 generation cost: 3425.0, path: [12.  1. 13. 19.  0. 15. 20.  8. 16.  7.  5. 14.  3. 11.  9. 17. 10.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,782 | [genetic] | run_genetic_algorithm() ] Current generation: 99
+[2021-10-30 21:56:15,788 | [genetic] | run_genetic_algorithm() ] #99 generation cost: 3425.0, path: [ 7.  1. 10. 19.  0. 15. 20.  8. 16. 14.  5. 13.  3. 11.  9. 17. 12.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,788 | [genetic] | run_genetic_algorithm() ] Current generation: 100
+[2021-10-30 21:56:15,800 | [genetic] | run_genetic_algorithm() ] #100 generation cost: 3425.0, path: [10.  7. 13. 19. 11. 15. 17. 20.  0. 16.  3.  9.  1. 12. 14.  8.  5.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,800 | [genetic] | run_genetic_algorithm() ] Current generation: 101
+[2021-10-30 21:56:15,809 | [genetic] | run_genetic_algorithm() ] #101 generation cost: 3425.0, path: [12.  1. 13. 19.  0. 15. 20.  8. 17.  7.  5. 14.  3. 11.  9. 16. 10.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,809 | [genetic] | run_genetic_algorithm() ] Current generation: 102
+[2021-10-30 21:56:15,817 | [genetic] | run_genetic_algorithm() ] #102 generation cost: 3425.0, path: [14.  1. 13. 19.  0. 15. 20.  8. 16.  7.  5. 18.  3. 11.  9. 17. 10.  6.
+  4. 12.  2.], population size: 10
+[2021-10-30 21:56:15,817 | [genetic] | run_genetic_algorithm() ] Current generation: 103
+[2021-10-30 21:56:15,824 | [genetic] | run_genetic_algorithm() ] #103 generation cost: 3425.0, path: [10.  7. 13. 11. 19. 15. 20.  8. 14. 12.  3.  6.  1. 16.  9. 17.  5.  0.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,824 | [genetic] | run_genetic_algorithm() ] Current generation: 104
+[2021-10-30 21:56:15,839 | [genetic] | run_genetic_algorithm() ] #104 generation cost: 3425.0, path: [12.  1. 13. 19.  0. 15. 20.  8. 17.  7.  5. 14.  3. 11.  9. 16. 10.  4.
+  6. 18.  2.], population size: 10
+[2021-10-30 21:56:15,839 | [genetic] | run_genetic_algorithm() ] Current generation: 105
+[2021-10-30 21:56:15,847 | [genetic] | run_genetic_algorithm() ] #105 generation cost: 3425.0, path: [10.  7. 13. 11. 19. 15. 20.  8. 16. 12.  3.  6.  1. 14.  9. 17.  5.  0.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,847 | [genetic] | run_genetic_algorithm() ] Current generation: 106
+[2021-10-30 21:56:15,853 | [genetic] | run_genetic_algorithm() ] #106 generation cost: 3425.0, path: [14.  1. 13. 19.  0. 15. 20. 16.  8.  7.  5. 18.  3. 11.  9. 17. 10.  6.
+  4. 12.  2.], population size: 10
+[2021-10-30 21:56:15,853 | [genetic] | run_genetic_algorithm() ] Current generation: 107
+[2021-10-30 21:56:15,860 | [genetic] | run_genetic_algorithm() ] #107 generation cost: 3425.0, path: [10.  7. 13. 19. 11. 15. 20.  8.  9. 12.  3.  6.  1. 16. 14. 17.  5.  0.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,860 | [genetic] | run_genetic_algorithm() ] Current generation: 108
+[2021-10-30 21:56:15,875 | [genetic] | run_genetic_algorithm() ] #108 generation cost: 3425.0, path: [15.  7. 13. 19.  0.  9.  3.  8. 14. 16. 20. 12.  1. 11.  5. 17. 10.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,875 | [genetic] | run_genetic_algorithm() ] Current generation: 109
+[2021-10-30 21:56:15,882 | [genetic] | run_genetic_algorithm() ] #109 generation cost: 3425.0, path: [10.  7. 13. 19.  5. 15. 17. 20.  0. 16.  3.  9.  1. 12. 14.  8. 11.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,883 | [genetic] | run_genetic_algorithm() ] Current generation: 110
+[2021-10-30 21:56:15,891 | [genetic] | run_genetic_algorithm() ] #110 generation cost: 3425.0, path: [10.  7. 13. 11. 19. 15. 20. 17. 16. 12.  3.  6.  1. 14.  9.  8.  5.  0.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,891 | [genetic] | run_genetic_algorithm() ] Current generation: 111
+[2021-10-30 21:56:15,906 | [genetic] | run_genetic_algorithm() ] #111 generation cost: 3425.0, path: [15.  0. 13. 19.  7.  9.  3.  8. 14. 16. 20. 12.  1. 11.  5. 17. 10.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,907 | [genetic] | run_genetic_algorithm() ] Current generation: 112
+[2021-10-30 21:56:15,915 | [genetic] | run_genetic_algorithm() ] #112 generation cost: 3425.0, path: [15.  7. 13. 19.  0.  5.  3.  8. 14. 20. 16. 12.  1.  9. 11. 17. 10.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,915 | [genetic] | run_genetic_algorithm() ] Current generation: 113
+[2021-10-30 21:56:15,922 | [genetic] | run_genetic_algorithm() ] #113 generation cost: 3425.0, path: [10.  7. 13. 19.  5. 15. 14. 20.  0. 16.  3.  9.  1. 12. 17.  8. 11.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,922 | [genetic] | run_genetic_algorithm() ] Current generation: 114
+[2021-10-30 21:56:15,933 | [genetic] | run_genetic_algorithm() ] #114 generation cost: 3425.0, path: [18.  7. 13. 19.  0.  5.  3.  8. 14. 20. 16. 12.  1.  9. 11. 17. 10.  6.
+  4. 15.  2.], population size: 10
+[2021-10-30 21:56:15,934 | [genetic] | run_genetic_algorithm() ] Current generation: 115
+[2021-10-30 21:56:15,944 | [genetic] | run_genetic_algorithm() ] #115 generation cost: 3425.0, path: [15. 13.  7. 19.  0.  5.  3.  8. 14. 16. 20. 12.  1. 11.  9. 17. 10.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,945 | [genetic] | run_genetic_algorithm() ] Current generation: 116
+[2021-10-30 21:56:15,952 | [genetic] | run_genetic_algorithm() ] #116 generation cost: 3425.0, path: [10.  7. 13. 19.  5. 15. 14. 20.  0. 16.  3.  9.  1. 12. 17.  8. 11.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,953 | [genetic] | run_genetic_algorithm() ] Current generation: 117
+[2021-10-30 21:56:15,961 | [genetic] | run_genetic_algorithm() ] #117 generation cost: 3425.0, path: [15.  0. 13. 19.  7.  3.  9.  8. 14. 10. 20. 12.  5. 11.  1. 17. 16.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,962 | [genetic] | run_genetic_algorithm() ] Current generation: 118
+[2021-10-30 21:56:15,979 | [genetic] | run_genetic_algorithm() ] #118 generation cost: 3425.0, path: [13. 14. 10. 19. 17. 15. 20.  8.  9. 12.  3.  6.  1. 16.  4. 11.  5.  0.
+  7. 18.  2.], population size: 10
+[2021-10-30 21:56:15,980 | [genetic] | run_genetic_algorithm() ] Current generation: 119
+[2021-10-30 21:56:15,988 | [genetic] | run_genetic_algorithm() ] #119 generation cost: 3425.0, path: [15.  0. 13. 19.  7.  9.  3.  8. 14. 16. 20. 12.  1. 11.  5. 17. 10.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:15,989 | [genetic] | run_genetic_algorithm() ] Current generation: 120
+[2021-10-30 21:56:16,001 | [genetic] | run_genetic_algorithm() ] #120 generation cost: 3425.0, path: [ 1.  7. 13. 19. 15.  5. 17. 20.  0. 16.  3.  9. 10. 12. 14.  8. 11.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:16,001 | [genetic] | run_genetic_algorithm() ] Current generation: 121
+[2021-10-30 21:56:16,013 | [genetic] | run_genetic_algorithm() ] #121 generation cost: 3425.0, path: [15.  0. 13.  5.  7.  9.  3.  8. 14. 10. 20. 12. 16. 11.  1. 17. 19.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:16,013 | [genetic] | run_genetic_algorithm() ] Current generation: 122
+[2021-10-30 21:56:16,020 | [genetic] | run_genetic_algorithm() ] #122 generation cost: 3425.0, path: [ 1.  7. 13. 15. 19.  5. 17. 20.  0. 16.  3.  9. 10. 12. 14.  8. 11.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:16,020 | [genetic] | run_genetic_algorithm() ] Current generation: 123
+[2021-10-30 21:56:16,027 | [genetic] | run_genetic_algorithm() ] #123 generation cost: 3425.0, path: [ 1.  7. 13. 19.  5. 15. 17. 20.  0. 16.  3.  9. 10. 12. 14.  8. 11.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:16,028 | [genetic] | run_genetic_algorithm() ] Current generation: 124
+[2021-10-30 21:56:16,041 | [genetic] | run_genetic_algorithm() ] #124 generation cost: 3425.0, path: [15.  0. 13.  5.  7.  9.  3.  8. 14. 10. 20. 12. 16. 11.  1. 17. 19.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:16,042 | [genetic] | run_genetic_algorithm() ] Current generation: 125
+[2021-10-30 21:56:16,050 | [genetic] | run_genetic_algorithm() ] #125 generation cost: 3425.0, path: [13.  7. 10. 19. 17. 15.  3.  6.  4. 12. 18.  8.  1. 16. 14. 11.  5.  0.
+  9. 20.  2.], population size: 10
+[2021-10-30 21:56:16,050 | [genetic] | run_genetic_algorithm() ] Current generation: 126
+[2021-10-30 21:56:16,057 | [genetic] | run_genetic_algorithm() ] #126 generation cost: 3425.0, path: [ 1.  7. 13. 19.  5. 15. 17. 20.  0. 16.  3.  9. 10. 12. 14.  8. 11.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:16,057 | [genetic] | run_genetic_algorithm() ] Current generation: 127
+[2021-10-30 21:56:16,072 | [genetic] | run_genetic_algorithm() ] #127 generation cost: 3425.0, path: [13. 17. 10. 19.  8. 15.  3.  6.  4. 12. 18.  7.  1. 16. 14. 11.  5.  0.
+ 20.  9.  2.], population size: 10
+[2021-10-30 21:56:16,072 | [genetic] | run_genetic_algorithm() ] Current generation: 128
+[2021-10-30 21:56:16,080 | [genetic] | run_genetic_algorithm() ] #128 generation cost: 3425.0, path: [13.  7. 10. 19. 11. 15.  3.  6.  4. 12. 18.  8.  1. 20. 14. 17.  5.  0.
+  9. 16.  2.], population size: 10
+[2021-10-30 21:56:16,080 | [genetic] | run_genetic_algorithm() ] Current generation: 129
+[2021-10-30 21:56:16,086 | [genetic] | run_genetic_algorithm() ] #129 generation cost: 3425.0, path: [13.  7. 10. 19. 17. 15.  3.  6.  4. 12. 16.  8.  1. 20. 14. 11.  5.  0.
+  9. 18.  2.], population size: 10
+[2021-10-30 21:56:16,086 | [genetic] | run_genetic_algorithm() ] Current generation: 130
+[2021-10-30 21:56:16,093 | [genetic] | run_genetic_algorithm() ] #130 generation cost: 3425.0, path: [13.  7. 10. 19. 11.  5.  3.  6.  4. 12. 18.  8.  1. 20. 14. 17. 15.  0.
+  9. 16.  2.], population size: 10
+[2021-10-30 21:56:16,094 | [genetic] | run_genetic_algorithm() ] Current generation: 131
+[2021-10-30 21:56:16,108 | [genetic] | run_genetic_algorithm() ] #131 generation cost: 3425.0, path: [13. 12. 10. 19. 11. 15.  3.  6.  4.  7. 18.  8.  1. 20. 14. 17.  5.  0.
+  9. 16.  2.], population size: 10
+[2021-10-30 21:56:16,108 | [genetic] | run_genetic_algorithm() ] Current generation: 132
+[2021-10-30 21:56:16,116 | [genetic] | run_genetic_algorithm() ] #132 generation cost: 3425.0, path: [13.  7. 10. 19. 11.  5.  3.  6.  4. 12. 18.  8.  1. 20. 14.  9. 15.  0.
+ 17. 16.  2.], population size: 10
+[2021-10-30 21:56:16,116 | [genetic] | run_genetic_algorithm() ] Current generation: 133
+[2021-10-30 21:56:16,124 | [genetic] | run_genetic_algorithm() ] #133 generation cost: 3425.0, path: [13. 12. 10. 19. 11. 15.  3.  6. 20.  7. 18.  8.  1.  4. 14. 17.  5.  0.
+  9. 16.  2.], population size: 10
+[2021-10-30 21:56:16,124 | [genetic] | run_genetic_algorithm() ] Current generation: 134
+[2021-10-30 21:56:16,138 | [genetic] | run_genetic_algorithm() ] #134 generation cost: 3425.0, path: [ 1.  7. 13. 15. 19.  5.  9. 20.  0. 16.  3. 17. 10. 12. 14.  8. 11.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:16,138 | [genetic] | run_genetic_algorithm() ] Current generation: 135
+[2021-10-30 21:56:16,146 | [genetic] | run_genetic_algorithm() ] #135 generation cost: 3425.0, path: [ 9. 12. 10. 19. 11. 15.  3.  6. 20.  7. 18.  8.  1.  4. 14. 17.  5.  0.
+ 13. 16.  2.], population size: 10
+[2021-10-30 21:56:16,146 | [genetic] | run_genetic_algorithm() ] Current generation: 136
+[2021-10-30 21:56:16,152 | [genetic] | run_genetic_algorithm() ] #136 generation cost: 3425.0, path: [15.  0. 13.  5. 20.  9.  3.  8. 10. 14.  7. 12. 16. 11.  1. 17. 19.  6.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:16,152 | [genetic] | run_genetic_algorithm() ] Current generation: 137
+[2021-10-30 21:56:16,159 | [genetic] | run_genetic_algorithm() ] #137 generation cost: 3425.0, path: [ 3.  7. 13. 15. 19.  5. 17. 20.  0. 16.  1.  9. 10. 12. 14.  8. 11. 18.
+  4.  6.  2.], population size: 10
+[2021-10-30 21:56:16,159 | [genetic] | run_genetic_algorithm() ] Current generation: 138
+[2021-10-30 21:56:16,172 | [genetic] | run_genetic_algorithm() ] #138 generation cost: 3425.0, path: [13.  7.  4. 19. 17. 15.  3.  6. 11. 12.  1.  5. 18. 16. 14. 10.  8.  0.
+  9. 20.  2.], population size: 10
+[2021-10-30 21:56:16,173 | [genetic] | run_genetic_algorithm() ] Current generation: 139
+[2021-10-30 21:56:16,180 | [genetic] | run_genetic_algorithm() ] #139 generation cost: 3425.0, path: [15.  0. 13.  8. 20.  9.  3.  5. 10.  4.  7. 17. 16. 11.  1. 12. 19.  6.
+ 14. 18.  2.], population size: 10
+[2021-10-30 21:56:16,181 | [genetic] | run_genetic_algorithm() ] Current generation: 140
+[2021-10-30 21:56:16,187 | [genetic] | run_genetic_algorithm() ] #140 generation cost: 3425.0, path: [13.  7.  8. 19. 17. 15.  3.  6. 11. 12.  1.  5. 18. 16. 14. 10.  4.  0.
+  9. 20.  2.], population size: 10
+[2021-10-30 21:56:16,187 | [genetic] | run_genetic_algorithm() ] Current generation: 141
+[2021-10-30 21:56:16,195 | [genetic] | run_genetic_algorithm() ] #141 generation cost: 3425.0, path: [15.  0. 13.  8. 20.  9.  3.  1. 10.  4.  7. 17. 16. 11.  5. 12. 19.  6.
+ 14. 18.  2.], population size: 10
+[2021-10-30 21:56:16,196 | [genetic] | run_genetic_algorithm() ] Current generation: 142
+[2021-10-30 21:56:16,208 | [genetic] | run_genetic_algorithm() ] #142 generation cost: 3425.0, path: [16.  0. 13.  5. 20.  9.  3.  8. 10.  4.  7. 17. 15. 11.  1. 12. 19.  6.
+ 14. 18.  2.], population size: 10
+[2021-10-30 21:56:16,208 | [genetic] | run_genetic_algorithm() ] Current generation: 143
+[2021-10-30 21:56:16,216 | [genetic] | run_genetic_algorithm() ] #143 generation cost: 3425.0, path: [16.  0. 13.  5. 20.  9.  3.  8. 10.  4.  7. 17.  6. 11.  1. 12. 19. 15.
+ 14. 18.  2.], population size: 10
+[2021-10-30 21:56:16,216 | [genetic] | run_genetic_algorithm() ] Current generation: 144
+[2021-10-30 21:56:16,223 | [genetic] | run_genetic_algorithm() ] #144 generation cost: 3425.0, path: [ 5.  7. 10. 19.  9. 13.  3.  0.  4. 12. 18.  8.  1. 20. 14. 11. 15.  6.
+ 17. 16.  2.], population size: 10
+[2021-10-30 21:56:16,223 | [genetic] | run_genetic_algorithm() ] Current generation: 145
+[2021-10-30 21:56:16,237 | [genetic] | run_genetic_algorithm() ] #145 generation cost: 3425.0, path: [ 1.  7. 10. 19. 17. 15.  3.  6. 11. 12. 18. 13.  5. 16. 14.  4.  8.  0.
+  9. 20.  2.], population size: 10
+[2021-10-30 21:56:16,237 | [genetic] | run_genetic_algorithm() ] Current generation: 146
+[2021-10-30 21:56:16,245 | [genetic] | run_genetic_algorithm() ] #146 generation cost: 3425.0, path: [16.  0. 13.  5. 20.  9.  3.  8. 10. 14.  7. 17.  6. 11.  1. 12. 19. 15.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:16,246 | [genetic] | run_genetic_algorithm() ] Current generation: 147
+[2021-10-30 21:56:16,252 | [genetic] | run_genetic_algorithm() ] #147 generation cost: 3425.0, path: [13.  7.  8. 19. 17. 15.  3.  6. 11. 12. 18.  5.  1. 16. 14.  0. 10.  4.
+  9. 20.  2.], population size: 10
+[2021-10-30 21:56:16,252 | [genetic] | run_genetic_algorithm() ] Current generation: 148
+[2021-10-30 21:56:16,260 | [genetic] | run_genetic_algorithm() ] #148 generation cost: 3425.0, path: [ 1.  7. 10. 18. 17. 15.  3.  6. 11. 12. 19. 13.  5. 16. 14.  4.  8.  0.
+  9. 20.  2.], population size: 10
+[2021-10-30 21:56:16,260 | [genetic] | run_genetic_algorithm() ] Current generation: 149
+[2021-10-30 21:56:16,277 | [genetic] | run_genetic_algorithm() ] #149 generation cost: 3425.0, path: [ 1.  7. 10. 19. 17. 15.  3.  6. 12. 11. 18. 13.  5. 16. 14.  4.  8.  0.
+  9. 20.  2.], population size: 10
+[2021-10-30 21:56:16,277 | [genetic] | run_genetic_algorithm() ] Current generation: 150
+[2021-10-30 21:56:16,284 | [genetic] | run_genetic_algorithm() ] #150 generation cost: 3425.0, path: [ 5.  7. 17. 19.  3. 13. 16.  6.  4. 12. 18.  8.  1. 20. 14. 10. 15.  0.
+ 11.  9.  2.], population size: 10
+[2021-10-30 21:56:16,285 | [genetic] | run_genetic_algorithm() ] Current generation: 151
+[2021-10-30 21:56:16,293 | [genetic] | run_genetic_algorithm() ] #151 generation cost: 3425.0, path: [ 1.  7. 17. 19. 10. 15.  3.  6. 12. 11. 18. 13.  5. 16. 14.  4.  8.  0.
+  9. 20.  2.], population size: 10
+[2021-10-30 21:56:16,293 | [genetic] | run_genetic_algorithm() ] Current generation: 152
+[2021-10-30 21:56:16,311 | [genetic] | run_genetic_algorithm() ] #152 generation cost: 3425.0, path: [ 5.  7. 10. 19.  0. 13.  3.  9.  4. 12. 18.  8.  1. 20. 14. 11. 15.  6.
+ 17. 16.  2.], population size: 10
+[2021-10-30 21:56:16,311 | [genetic] | run_genetic_algorithm() ] Current generation: 153
+[2021-10-30 21:56:16,318 | [genetic] | run_genetic_algorithm() ] #153 generation cost: 3425.0, path: [ 1.  7.  8. 19. 10. 15.  3.  6. 12. 11. 18. 13.  5. 16. 14.  4. 17.  0.
+  9. 20.  2.], population size: 10
+[2021-10-30 21:56:16,318 | [genetic] | run_genetic_algorithm() ] Current generation: 154
+[2021-10-30 21:56:16,324 | [genetic] | run_genetic_algorithm() ] #154 generation cost: 3425.0, path: [16.  0. 13.  5. 20.  9.  3.  8. 10. 14.  7. 17. 19. 11.  1. 12.  6. 15.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:16,325 | [genetic] | run_genetic_algorithm() ] Current generation: 155
+[2021-10-30 21:56:16,339 | [genetic] | run_genetic_algorithm() ] #155 generation cost: 3425.0, path: [ 5.  7. 10. 19. 18. 13.  3.  0.  4. 12.  9.  8.  1. 20. 14. 11. 15.  6.
+ 17. 16.  2.], population size: 10
+[2021-10-30 21:56:16,339 | [genetic] | run_genetic_algorithm() ] Current generation: 156
+[2021-10-30 21:56:16,346 | [genetic] | run_genetic_algorithm() ] #156 generation cost: 3425.0, path: [ 1.  7. 10. 18.  3. 15. 17.  6. 20. 12. 19. 13.  5. 16. 14.  4.  8.  0.
+  9. 11.  2.], population size: 10
+[2021-10-30 21:56:16,347 | [genetic] | run_genetic_algorithm() ] Current generation: 157
+[2021-10-30 21:56:16,353 | [genetic] | run_genetic_algorithm() ] #157 generation cost: 3425.0, path: [16.  0. 13.  5. 20.  9.  3.  8. 10. 15.  7. 17.  6. 11.  1. 12. 19. 14.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:16,353 | [genetic] | run_genetic_algorithm() ] Current generation: 158
+[2021-10-30 21:56:16,361 | [genetic] | run_genetic_algorithm() ] #158 generation cost: 3425.0, path: [ 5.  7. 10. 19. 18. 13.  3.  0.  4. 17.  9.  8.  1. 20. 14. 11. 15.  6.
+ 12. 16.  2.], population size: 10
+[2021-10-30 21:56:16,361 | [genetic] | run_genetic_algorithm() ] Current generation: 159
+[2021-10-30 21:56:16,374 | [genetic] | run_genetic_algorithm() ] #159 generation cost: 3425.0, path: [17.  0. 13.  5. 20.  9.  3.  8. 10. 18.  7. 16. 15. 11.  1. 12. 19. 14.
+  4.  6.  2.], population size: 10
+[2021-10-30 21:56:16,374 | [genetic] | run_genetic_algorithm() ] Current generation: 160
+[2021-10-30 21:56:16,382 | [genetic] | run_genetic_algorithm() ] #160 generation cost: 3425.0, path: [ 0. 17. 13.  5. 20.  3.  9.  8. 10. 18.  7. 16.  6. 11.  1. 12. 19. 14.
+  4. 15.  2.], population size: 10
+[2021-10-30 21:56:16,382 | [genetic] | run_genetic_algorithm() ] Current generation: 161
+[2021-10-30 21:56:16,389 | [genetic] | run_genetic_algorithm() ] #161 generation cost: 3425.0, path: [17.  9. 13.  5. 20.  0.  3.  6. 10. 18.  7. 16.  8. 11.  1. 12. 19. 14.
+  4. 15.  2.], population size: 10
+[2021-10-30 21:56:16,389 | [genetic] | run_genetic_algorithm() ] Current generation: 162
+[2021-10-30 21:56:16,401 | [genetic] | run_genetic_algorithm() ] #162 generation cost: 3425.0, path: [ 5.  0. 10. 19. 18. 13.  3.  7.  4. 17.  9.  8.  1. 20. 14. 11. 15.  6.
+ 12. 16.  2.], population size: 10
+[2021-10-30 21:56:16,401 | [genetic] | run_genetic_algorithm() ] Current generation: 163
+[2021-10-30 21:56:16,413 | [genetic] | run_genetic_algorithm() ] #163 generation cost: 3425.0, path: [17.  0. 13.  5. 20.  9. 12.  6. 10. 18.  7. 16.  8. 11.  1.  3. 19. 14.
+  4. 15.  2.], population size: 10
+[2021-10-30 21:56:16,413 | [genetic] | run_genetic_algorithm() ] Current generation: 164
+[2021-10-30 21:56:16,420 | [genetic] | run_genetic_algorithm() ] #164 generation cost: 3425.0, path: [ 0. 17. 13.  5. 20.  3.  9.  8. 10. 18.  7. 16.  6. 11.  1. 12. 19. 14.
+  4. 15.  2.], population size: 10
+[2021-10-30 21:56:16,421 | [genetic] | run_genetic_algorithm() ] Current generation: 165
+[2021-10-30 21:56:16,429 | [genetic] | run_genetic_algorithm() ] #165 generation cost: 3425.0, path: [17.  5. 13.  0. 20.  9.  3.  8. 10. 18.  7. 16.  6. 11.  1. 12. 19. 14.
+  4. 15.  2.], population size: 10
+[2021-10-30 21:56:16,430 | [genetic] | run_genetic_algorithm() ] Current generation: 166
+[2021-10-30 21:56:16,444 | [genetic] | run_genetic_algorithm() ] #166 generation cost: 3425.0, path: [14.  0. 10. 19. 18. 13.  3.  7.  4. 17.  9.  8.  1. 20.  5. 11. 15.  6.
+ 12. 16.  2.], population size: 10
+[2021-10-30 21:56:16,444 | [genetic] | run_genetic_algorithm() ] Current generation: 167
+[2021-10-30 21:56:16,451 | [genetic] | run_genetic_algorithm() ] #167 generation cost: 3425.0, path: [15.  7. 10.  0. 18. 13.  3. 19.  4. 17.  9.  8.  1. 20. 14. 11.  5.  6.
+ 12. 16.  2.], population size: 10
+[2021-10-30 21:56:16,451 | [genetic] | run_genetic_algorithm() ] Current generation: 168
+[2021-10-30 21:56:16,458 | [genetic] | run_genetic_algorithm() ] #168 generation cost: 3425.0, path: [ 0. 17. 13. 14. 20.  3.  9.  8. 10. 18.  7. 16.  6. 11.  1. 12. 19.  5.
+  4. 15.  2.], population size: 10
+[2021-10-30 21:56:16,458 | [genetic] | run_genetic_algorithm() ] Current generation: 169
+[2021-10-30 21:56:16,473 | [genetic] | run_genetic_algorithm() ] #169 generation cost: 3425.0, path: [ 0. 17. 13.  5. 20.  3.  9.  8. 10. 18.  7. 16.  6. 11.  1. 12. 19. 14.
+  4. 15.  2.], population size: 10
+[2021-10-30 21:56:16,473 | [genetic] | run_genetic_algorithm() ] Current generation: 170
+[2021-10-30 21:56:16,481 | [genetic] | run_genetic_algorithm() ] #170 generation cost: 3425.0, path: [ 0. 17.  4. 14. 20.  3.  9.  8. 10. 18.  7. 16.  6. 11.  1. 12. 19.  5.
+ 13. 15.  2.], population size: 10
+[2021-10-30 21:56:16,481 | [genetic] | run_genetic_algorithm() ] Current generation: 171
+[2021-10-30 21:56:16,487 | [genetic] | run_genetic_algorithm() ] #171 generation cost: 3425.0, path: [ 0. 17. 13.  5. 19.  3.  9.  6. 10. 18.  7. 12.  8. 11.  1. 16. 20. 14.
+  4. 15.  2.], population size: 10
+[2021-10-30 21:56:16,487 | [genetic] | run_genetic_algorithm() ] Current generation: 172
+[2021-10-30 21:56:16,495 | [genetic] | run_genetic_algorithm() ] #172 generation cost: 3425.0, path: [14.  0. 10.  1. 18. 13.  3.  7.  4. 17.  9.  8. 19. 20.  5. 11. 15.  6.
+ 12. 16.  2.], population size: 10
+[2021-10-30 21:56:16,496 | [genetic] | run_genetic_algorithm() ] Current generation: 173
+[2021-10-30 21:56:16,510 | [genetic] | run_genetic_algorithm() ] #173 generation cost: 3425.0, path: [ 5.  7. 10.  0. 18. 20.  3.  9.  4.  6. 19.  8.  1. 13. 14. 11. 15. 17.
+ 12. 16.  2.], population size: 10
+[2021-10-30 21:56:16,510 | [genetic] | run_genetic_algorithm() ] Current generation: 174
+[2021-10-30 21:56:16,518 | [genetic] | run_genetic_algorithm() ] #174 generation cost: 3425.0, path: [ 0. 17. 13.  5. 20.  3.  9.  8. 10. 18. 19. 16.  6. 11.  1. 12.  7. 14.
+  4. 15.  2.], population size: 10
+[2021-10-30 21:56:16,518 | [genetic] | run_genetic_algorithm() ] Current generation: 175
+[2021-10-30 21:56:16,525 | [genetic] | run_genetic_algorithm() ] #175 generation cost: 3425.0, path: [14.  0. 10.  1.  5. 13.  3.  7.  4.  6.  9.  8. 19. 20. 18. 11. 15. 17.
+ 12. 16.  2.], population size: 10
+[2021-10-30 21:56:16,525 | [genetic] | run_genetic_algorithm() ] Current generation: 176
+[2021-10-30 21:56:16,540 | [genetic] | run_genetic_algorithm() ] #176 generation cost: 3425.0, path: [ 0. 17. 13.  5. 20.  3.  9.  8. 10. 18. 12. 16.  6. 11.  1. 19.  7. 14.
+  4. 15.  2.], population size: 10
+[2021-10-30 21:56:16,540 | [genetic] | run_genetic_algorithm() ] Current generation: 177
+[2021-10-30 21:56:16,548 | [genetic] | run_genetic_algorithm() ] #177 generation cost: 3425.0, path: [13.  7. 10.  0. 18. 20.  3. 19. 17.  6.  9.  8.  1.  5. 14. 11. 15.  4.
+ 12. 16.  2.], population size: 10
+[2021-10-30 21:56:16,548 | [genetic] | run_genetic_algorithm() ] Current generation: 178
+[2021-10-30 21:56:16,554 | [genetic] | run_genetic_algorithm() ] #178 generation cost: 3425.0, path: [ 0. 17. 13.  5. 20.  3.  9.  8. 10. 18. 19.  4.  6. 11.  1. 12.  7. 14.
+ 16. 15.  2.], population size: 10
+[2021-10-30 21:56:16,555 | [genetic] | run_genetic_algorithm() ] Current generation: 179
+[2021-10-30 21:56:16,564 | [genetic] | run_genetic_algorithm() ] #179 generation cost: 3425.0, path: [ 0. 17. 13.  5. 20.  3.  9.  8. 10. 18. 19. 16.  6.  4.  1. 12.  7. 14.
+ 11. 15.  2.], population size: 10
+[2021-10-30 21:56:16,565 | [genetic] | run_genetic_algorithm() ] Current generation: 180
+[2021-10-30 21:56:16,575 | [genetic] | run_genetic_algorithm() ] #180 generation cost: 3425.0, path: [18.  0. 10.  1.  5. 13.  3.  7.  4.  6.  9.  8. 19. 20. 14. 11. 15. 17.
+ 12. 16.  2.], population size: 10
+[2021-10-30 21:56:16,576 | [genetic] | run_genetic_algorithm() ] Current generation: 181
+[2021-10-30 21:56:16,584 | [genetic] | run_genetic_algorithm() ] #181 generation cost: 3425.0, path: [ 0.  5. 13. 17. 20.  3.  9.  8. 10. 18. 19.  4.  6. 11.  1. 14.  7. 12.
+ 16. 15.  2.], population size: 10
+[2021-10-30 21:56:16,584 | [genetic] | run_genetic_algorithm() ] Current generation: 182
+[2021-10-30 21:56:16,591 | [genetic] | run_genetic_algorithm() ] #182 generation cost: 3425.0, path: [ 0. 17. 13.  5. 20.  3.  9.  8. 10. 16. 12. 18.  6. 11.  1. 19.  7. 14.
+  4. 15.  2.], population size: 10
+[2021-10-30 21:56:16,591 | [genetic] | run_genetic_algorithm() ] Current generation: 183
+[2021-10-30 21:56:16,605 | [genetic] | run_genetic_algorithm() ] #183 generation cost: 3425.0, path: [ 0.  4. 13.  5. 20.  3.  9. 14. 10. 18. 19. 16. 17. 11.  1. 12.  7.  8.
+  6. 15.  2.], population size: 10
+[2021-10-30 21:56:16,605 | [genetic] | run_genetic_algorithm() ] Current generation: 184
+[2021-10-30 21:56:16,613 | [genetic] | run_genetic_algorithm() ] #184 generation cost: 3425.0, path: [ 0.  4. 13.  5. 20.  3. 18.  8. 10.  9. 19. 17.  6. 11.  1. 14.  7. 12.
+ 16. 15.  2.], population size: 10
+[2021-10-30 21:56:16,613 | [genetic] | run_genetic_algorithm() ] Current generation: 185
+[2021-10-30 21:56:16,619 | [genetic] | run_genetic_algorithm() ] #185 generation cost: 3425.0, path: [13.  7.  8.  0. 18. 20. 17. 19.  3.  6.  9. 10.  1.  5. 14. 11. 15.  4.
+ 12. 16.  2.], population size: 10
+[2021-10-30 21:56:16,619 | [genetic] | run_genetic_algorithm() ] Current generation: 186
+[2021-10-30 21:56:16,626 | [genetic] | run_genetic_algorithm() ] #186 generation cost: 3425.0, path: [ 0. 17. 14.  5. 20.  3. 18.  6. 10.  9. 19.  4.  8. 11.  1. 13.  7. 12.
+ 16. 15.  2.], population size: 10
+[2021-10-30 21:56:16,626 | [genetic] | run_genetic_algorithm() ] Current generation: 187
+[2021-10-30 21:56:16,642 | [genetic] | run_genetic_algorithm() ] #187 generation cost: 3425.0, path: [18. 17. 13.  5. 20. 11.  9.  8. 10.  0. 19. 16.  6.  4. 14. 12.  7.  1.
+  3. 15.  2.], population size: 10
+[2021-10-30 21:56:16,642 | [genetic] | run_genetic_algorithm() ] Current generation: 188
+[2021-10-30 21:56:16,650 | [genetic] | run_genetic_algorithm() ] #188 generation cost: 3425.0, path: [ 0.  4. 13.  1. 20. 15. 18.  8. 10.  3. 19. 17.  6. 11.  5. 14.  7. 12.
+ 16.  9.  2.], population size: 10
+[2021-10-30 21:56:16,650 | [genetic] | run_genetic_algorithm() ] Current generation: 189
+[2021-10-30 21:56:16,656 | [genetic] | run_genetic_algorithm() ] #189 generation cost: 3425.0, path: [ 7. 15. 10.  1. 13. 19.  3. 20.  4.  6.  9.  8.  5. 18. 14. 11.  0. 17.
+ 12. 16.  2.], population size: 10
+[2021-10-30 21:56:16,657 | [genetic] | run_genetic_algorithm() ] Current generation: 190
+[2021-10-30 21:56:16,672 | [genetic] | run_genetic_algorithm() ] #190 generation cost: 3425.0, path: [ 7. 15. 12.  1. 13. 19.  3. 18.  4.  6.  9.  8.  5. 20. 14. 11.  0. 17.
+ 10. 16.  2.], population size: 10
+[2021-10-30 21:56:16,672 | [genetic] | run_genetic_algorithm() ] Current generation: 191
+[2021-10-30 21:56:16,679 | [genetic] | run_genetic_algorithm() ] #191 generation cost: 3425.0, path: [18. 17. 13.  5. 20. 11.  9.  8. 10.  0. 19. 16.  6.  4. 14. 12.  7.  1.
+  3. 15.  2.], population size: 10
+[2021-10-30 21:56:16,679 | [genetic] | run_genetic_algorithm() ] Current generation: 192
+[2021-10-30 21:56:16,685 | [genetic] | run_genetic_algorithm() ] #192 generation cost: 3425.0, path: [ 7. 15. 10.  1.  5. 19.  3. 20.  4.  6.  9.  8. 13. 18. 14. 17.  0. 11.
+ 12. 16.  2.], population size: 10
+[2021-10-30 21:56:16,686 | [genetic] | run_genetic_algorithm() ] Current generation: 193
+[2021-10-30 21:56:16,692 | [genetic] | run_genetic_algorithm() ] #193 generation cost: 3425.0, path: [ 0.  4. 13. 14. 20. 15. 18.  8. 10.  3. 19. 17.  6. 11.  5.  1. 16. 12.
+  7.  9.  2.], population size: 10
+[2021-10-30 21:56:16,692 | [genetic] | run_genetic_algorithm() ] Current generation: 194
+[2021-10-30 21:56:16,708 | [genetic] | run_genetic_algorithm() ] #194 generation cost: 3425.0, path: [18. 15. 10.  1.  5. 19.  3. 20.  4.  6.  9.  8. 13.  7. 14. 17.  0. 11.
+ 12. 16.  2.], population size: 10
+[2021-10-30 21:56:16,708 | [genetic] | run_genetic_algorithm() ] Current generation: 195
+[2021-10-30 21:56:16,717 | [genetic] | run_genetic_algorithm() ] #195 generation cost: 3425.0, path: [ 0. 19. 13.  1. 20. 15. 18.  8. 10.  3.  4. 17. 14. 11.  5.  6.  7. 12.
+ 16.  9.  2.], population size: 10
+[2021-10-30 21:56:16,717 | [genetic] | run_genetic_algorithm() ] Current generation: 196
+[2021-10-30 21:56:16,724 | [genetic] | run_genetic_algorithm() ] #196 generation cost: 3425.0, path: [ 7. 15. 10.  1.  5. 19.  3. 20.  4.  6.  9.  8. 13. 18. 14. 11.  0. 17.
+ 12. 16.  2.], population size: 10
+[2021-10-30 21:56:16,724 | [genetic] | run_genetic_algorithm() ] Current generation: 197
+[2021-10-30 21:56:16,735 | [genetic] | run_genetic_algorithm() ] #197 generation cost: 3425.0, path: [ 0. 19. 13.  1. 20. 15. 18.  3. 10.  8.  4. 17. 14. 11.  5.  6.  7. 12.
+ 16.  9.  2.], population size: 10
+[2021-10-30 21:56:16,735 | [genetic] | run_genetic_algorithm() ] Current generation: 198
+[2021-10-30 21:56:16,747 | [genetic] | run_genetic_algorithm() ] #198 generation cost: 3425.0, path: [ 0.  4. 13.  8. 20. 15. 18. 14. 10.  3. 19. 17.  6. 11.  5.  1.  7. 12.
+ 16.  9.  2.], population size: 10
+[2021-10-30 21:56:16,747 | [genetic] | run_genetic_algorithm() ] Current generation: 199
+[2021-10-30 21:56:16,753 | [genetic] | run_genetic_algorithm() ] #199 generation cost: 3425.0, path: [ 7. 15. 10.  1.  5. 19.  3. 20.  4.  6.  9.  8. 13. 18. 14. 11.  0. 17.
+ 12. 16.  2.], population size: 10
+[2021-10-30 21:56:16,753 | [genetic] | run_genetic_algorithm() ] Current generation: 200
+[2021-10-30 21:56:16,761 | [genetic] | run_genetic_algorithm() ] #200 generation cost: 3425.0, path: [ 0.  4. 13.  8. 20. 17. 18. 14. 10.  3. 19. 15.  6. 11.  5.  1.  9. 12.
+ 16.  7.  2.], population size: 10
+[2021-10-30 21:56:16,761 | [genetic] | run_genetic_algorithm() ] Current generation: 201
+[2021-10-30 21:56:16,775 | [genetic] | run_genetic_algorithm() ] #201 generation cost: 3425.0, path: [ 0.  4. 13.  7. 20. 15. 18. 14. 10.  3. 19. 17.  6. 11.  5.  8.  9. 12.
+ 16.  1.  2.], population size: 10
+[2021-10-30 21:56:16,775 | [genetic] | run_genetic_algorithm() ] Current generation: 202
+[2021-10-30 21:56:16,783 | [genetic] | run_genetic_algorithm() ] #202 generation cost: 3425.0, path: [18. 17. 13.  5. 20. 11.  3.  8. 10.  0. 19. 16. 14.  4.  6. 12.  7.  1.
+  9. 15.  2.], population size: 10
+[2021-10-30 21:56:16,783 | [genetic] | run_genetic_algorithm() ] Current generation: 203
+[2021-10-30 21:56:16,790 | [genetic] | run_genetic_algorithm() ] #203 generation cost: 3425.0, path: [ 7. 15.  0. 14.  5. 19.  3. 20.  4.  6.  9.  8. 13. 18.  1. 11. 10. 17.
+ 12. 16.  2.], population size: 10
+[2021-10-30 21:56:16,790 | [genetic] | run_genetic_algorithm() ] Current generation: 204
+[2021-10-30 21:56:16,805 | [genetic] | run_genetic_algorithm() ] #204 generation cost: 3425.0, path: [ 0.  4. 13.  7. 20. 15. 18. 14. 10.  3. 19. 17.  6. 11.  5.  8.  9. 12.
+ 16.  1.  2.], population size: 10
+[2021-10-30 21:56:16,805 | [genetic] | run_genetic_algorithm() ] Current generation: 205
+[2021-10-30 21:56:16,813 | [genetic] | run_genetic_algorithm() ] #205 generation cost: 3425.0, path: [ 7. 15. 19.  1.  6. 10.  3. 20.  4. 17.  9.  8. 13. 18. 14. 11.  0.  5.
+ 12. 16.  2.], population size: 10
+[2021-10-30 21:56:16,813 | [genetic] | run_genetic_algorithm() ] Current generation: 206
+[2021-10-30 21:56:16,819 | [genetic] | run_genetic_algorithm() ] #206 generation cost: 3425.0, path: [ 0.  4. 13.  7. 20. 15. 18. 14. 10.  3. 19. 17.  6. 11.  5.  8.  9. 12.
+ 16.  1.  2.], population size: 10
+[2021-10-30 21:56:16,819 | [genetic] | run_genetic_algorithm() ] Current generation: 207
+[2021-10-30 21:56:16,826 | [genetic] | run_genetic_algorithm() ] #207 generation cost: 3425.0, path: [ 7. 15. 19.  1.  6. 10. 14. 20.  4.  5.  9.  8. 13. 18.  3. 11.  0. 17.
+ 12. 16.  2.], population size: 10
+[2021-10-30 21:56:16,826 | [genetic] | run_genetic_algorithm() ] Current generation: 208
+[2021-10-30 21:56:16,840 | [genetic] | run_genetic_algorithm() ] #208 generation cost: 3425.0, path: [ 7. 15. 19.  1.  6. 10. 11. 20.  4.  5.  9.  8. 13. 18. 14.  3.  0. 17.
+ 12. 16.  2.], population size: 10
+[2021-10-30 21:56:16,841 | [genetic] | run_genetic_algorithm() ] Current generation: 209
+[2021-10-30 21:56:16,849 | [genetic] | run_genetic_algorithm() ] #209 generation cost: 3425.0, path: [ 7. 15. 19.  1.  6. 10.  3. 20.  4. 17.  9.  8. 13. 18. 14. 16.  0.  5.
+ 12. 11.  2.], population size: 10
+[2021-10-30 21:56:16,849 | [genetic] | run_genetic_algorithm() ] Current generation: 210
+[2021-10-30 21:56:16,855 | [genetic] | run_genetic_algorithm() ] #210 generation cost: 3425.0, path: [ 7. 15. 10. 14.  5. 12.  3. 20.  4.  6.  9.  8. 13. 18.  1. 11.  0. 17.
+ 19. 16.  2.], population size: 10
+[2021-10-30 21:56:16,855 | [genetic] | run_genetic_algorithm() ] Current generation: 211
+[2021-10-30 21:56:16,866 | [genetic] | run_genetic_algorithm() ] #211 generation cost: 3425.0, path: [ 7. 15. 10.  1.  5. 19.  3. 20.  4.  6.  9.  8. 13. 18. 14. 11.  0. 17.
+ 12. 16.  2.], population size: 10
+[2021-10-30 21:56:16,867 | [genetic] | run_genetic_algorithm() ] Current generation: 212
+[2021-10-30 21:56:16,876 | [genetic] | run_genetic_algorithm() ] #212 generation cost: 3425.0, path: [ 0. 17. 13.  7. 20. 15. 18. 10. 14.  3. 19.  4.  6. 11.  5.  9.  8. 12.
+ 16.  1.  2.], population size: 10
+[2021-10-30 21:56:16,877 | [genetic] | run_genetic_algorithm() ] Current generation: 213
+[2021-10-30 21:56:16,885 | [genetic] | run_genetic_algorithm() ] #213 generation cost: 3425.0, path: [ 7. 15. 10. 14.  5. 12.  3. 20.  4.  6.  9.  8. 17. 18.  1.  0. 11. 13.
+ 19. 16.  2.], population size: 10
+[2021-10-30 21:56:16,885 | [genetic] | run_genetic_algorithm() ] Current generation: 214
+[2021-10-30 21:56:16,891 | [genetic] | run_genetic_algorithm() ] #214 generation cost: 3425.0, path: [11. 15. 10. 14.  5. 12.  3. 20.  4.  6.  9.  8. 17. 18.  1.  7.  0. 13.
+ 19. 16.  2.], population size: 10
+[2021-10-30 21:56:16,891 | [genetic] | run_genetic_algorithm() ] Current generation: 215
+[2021-10-30 21:56:16,906 | [genetic] | run_genetic_algorithm() ] #215 generation cost: 3425.0, path: [20. 15. 10.  1.  5. 19.  3.  7.  4.  6. 17.  8.  0. 11. 14. 18. 13.  9.
+ 12. 16.  2.], population size: 10
+[2021-10-30 21:56:16,906 | [genetic] | run_genetic_algorithm() ] Current generation: 216
+[2021-10-30 21:56:16,914 | [genetic] | run_genetic_algorithm() ] #216 generation cost: 3425.0, path: [ 7. 15. 19.  0.  6. 10. 14. 20.  4.  5.  9.  8. 13. 18.  3. 11.  1. 17.
+ 12. 16.  2.], population size: 10
+[2021-10-30 21:56:16,915 | [genetic] | run_genetic_algorithm() ] Current generation: 217
+[2021-10-30 21:56:16,921 | [genetic] | run_genetic_algorithm() ] #217 generation cost: 3425.0, path: [ 7. 10. 15. 14.  5. 12.  3. 20.  4.  6.  9.  8. 17. 18.  1. 11.  0. 13.
+ 19. 16.  2.], population size: 10
+[2021-10-30 21:56:16,921 | [genetic] | run_genetic_algorithm() ] Current generation: 218
+[2021-10-30 21:56:16,932 | [genetic] | run_genetic_algorithm() ] #218 generation cost: 3425.0, path: [ 7. 10. 19.  1.  6. 16.  3. 20.  4. 17.  9.  8. 13. 18. 14. 15.  0.  5.
+ 11. 12.  2.], population size: 10
+[2021-10-30 21:56:16,932 | [genetic] | run_genetic_algorithm() ] Current generation: 219
+[2021-10-30 21:56:16,942 | [genetic] | run_genetic_algorithm() ] #219 generation cost: 3425.0, path: [20. 15. 10.  1. 16. 19. 12.  7.  4.  6. 17.  8. 13. 11. 14. 18.  0.  9.
+  3.  5.  2.], population size: 10
+[2021-10-30 21:56:16,943 | [genetic] | run_genetic_algorithm() ] Current generation: 220
+[2021-10-30 21:56:16,951 | [genetic] | run_genetic_algorithm() ] #220 generation cost: 3425.0, path: [ 0. 17. 13.  7. 20. 15. 18. 10. 14.  3.  1.  4.  6. 11.  5.  9.  8. 12.
+ 16. 19.  2.], population size: 10
+[2021-10-30 21:56:16,951 | [genetic] | run_genetic_algorithm() ] Current generation: 221
+[2021-10-30 21:56:16,957 | [genetic] | run_genetic_algorithm() ] #221 generation cost: 3425.0, path: [20. 15. 10.  1. 16. 19. 12.  7. 13.  6. 17.  8.  4. 11. 14. 18.  0.  9.
+  3.  5.  2.], population size: 10
+[2021-10-30 21:56:16,957 | [genetic] | run_genetic_algorithm() ] Current generation: 222
+[2021-10-30 21:56:16,972 | [genetic] | run_genetic_algorithm() ] #222 generation cost: 3425.0, path: [ 7.  0. 15. 14.  5. 12.  3. 20.  4.  6.  9.  8. 17. 18. 10. 11.  1. 13.
+ 19. 16.  2.], population size: 10
+[2021-10-30 21:56:16,972 | [genetic] | run_genetic_algorithm() ] Current generation: 223
+[2021-10-30 21:56:16,980 | [genetic] | run_genetic_algorithm() ] #223 generation cost: 3425.0, path: [ 7. 10. 15. 14.  5. 12.  3. 20.  4. 17.  9. 19.  6. 18.  1. 11.  0. 13.
+  8. 16.  2.], population size: 10
+[2021-10-30 21:56:16,980 | [genetic] | run_genetic_algorithm() ] Current generation: 224
+[2021-10-30 21:56:16,986 | [genetic] | run_genetic_algorithm() ] #224 generation cost: 3425.0, path: [ 0. 17. 13.  7. 20. 15. 18. 10. 14.  3.  1.  4.  6. 16.  5.  9.  8. 12.
+ 19. 11.  2.], population size: 10
+[2021-10-30 21:56:16,986 | [genetic] | run_genetic_algorithm() ] Current generation: 225
+[2021-10-30 21:56:16,993 | [genetic] | run_genetic_algorithm() ] #225 generation cost: 3425.0, path: [ 0. 17. 13.  7. 20. 15. 18.  8. 14.  3.  1.  4.  6. 19.  5.  9. 10. 12.
+ 16. 11.  2.], population size: 10
+[2021-10-30 21:56:16,993 | [genetic] | run_genetic_algorithm() ] Current generation: 226
+[2021-10-30 21:56:17,008 | [genetic] | run_genetic_algorithm() ] #226 generation cost: 3425.0, path: [15. 19. 10.  1. 16.  5. 12.  7.  4.  6. 17. 20.  0. 14. 11. 18.  3.  9.
+ 13.  8.  2.], population size: 10
+[2021-10-30 21:56:17,009 | [genetic] | run_genetic_algorithm() ] Current generation: 227
+[2021-10-30 21:56:17,017 | [genetic] | run_genetic_algorithm() ] #227 generation cost: 3425.0, path: [ 7. 10. 15.  4.  5. 12.  3. 20.  1. 17.  9. 19.  6. 18. 14. 11.  0. 13.
+  8. 16.  2.], population size: 10
+[2021-10-30 21:56:17,017 | [genetic] | run_genetic_algorithm() ] Current generation: 228
+[2021-10-30 21:56:17,023 | [genetic] | run_genetic_algorithm() ] #228 generation cost: 3425.0, path: [20. 19. 10.  1. 16. 15. 12.  7.  4.  6. 17.  8.  3. 11. 14.  5.  0.  9.
+ 13. 18.  2.], population size: 10
+[2021-10-30 21:56:17,024 | [genetic] | run_genetic_algorithm() ] Current generation: 229
+[2021-10-30 21:56:17,039 | [genetic] | run_genetic_algorithm() ] #229 generation cost: 3425.0, path: [20. 19. 10.  1. 16.  5. 12.  7. 13.  6. 17. 15.  0. 14. 11. 18.  3.  9.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:17,039 | [genetic] | run_genetic_algorithm() ] Current generation: 230
+[2021-10-30 21:56:17,046 | [genetic] | run_genetic_algorithm() ] #230 generation cost: 3425.0, path: [ 7. 10. 15.  4.  5. 12.  3. 13.  1. 17.  9. 19.  6. 18. 14. 11.  0. 16.
+  8. 20.  2.], population size: 10
+[2021-10-30 21:56:17,047 | [genetic] | run_genetic_algorithm() ] Current generation: 231
+[2021-10-30 21:56:17,053 | [genetic] | run_genetic_algorithm() ] #231 generation cost: 3425.0, path: [ 7. 10. 15.  4. 14. 12.  3. 20.  1. 17.  9. 19.  6. 18.  5. 11.  0. 13.
+  8. 16.  2.], population size: 10
+[2021-10-30 21:56:17,053 | [genetic] | run_genetic_algorithm() ] Current generation: 232
+[2021-10-30 21:56:17,060 | [genetic] | run_genetic_algorithm() ] #232 generation cost: 3425.0, path: [ 7. 10. 15.  4.  5. 12.  3. 20.  1.  8.  9. 19.  6. 18. 14. 11.  0. 13.
+ 17. 16.  2.], population size: 10
+[2021-10-30 21:56:17,061 | [genetic] | run_genetic_algorithm() ] Current generation: 233
+[2021-10-30 21:56:17,077 | [genetic] | run_genetic_algorithm() ] #233 generation cost: 3425.0, path: [ 7. 10. 15.  4.  5. 12.  3. 13.  1. 17.  9. 19.  6. 18.  8. 11.  0. 16.
+ 14. 20.  2.], population size: 10
+[2021-10-30 21:56:17,077 | [genetic] | run_genetic_algorithm() ] Current generation: 234
+[2021-10-30 21:56:17,084 | [genetic] | run_genetic_algorithm() ] #234 generation cost: 3425.0, path: [ 0. 17. 15.  7. 20.  5. 18. 10. 14. 13. 19.  4.  6. 11.  3.  9.  8. 12.
+ 16.  1.  2.], population size: 10
+[2021-10-30 21:56:17,084 | [genetic] | run_genetic_algorithm() ] Current generation: 235
+[2021-10-30 21:56:17,090 | [genetic] | run_genetic_algorithm() ] #235 generation cost: 3425.0, path: [ 7. 10. 15.  3. 19. 12. 14. 13.  1. 17.  9.  5.  6. 18.  4. 11.  0. 20.
+  8. 16.  2.], population size: 10
+[2021-10-30 21:56:17,090 | [genetic] | run_genetic_algorithm() ] Current generation: 236
+[2021-10-30 21:56:17,104 | [genetic] | run_genetic_algorithm() ] #236 generation cost: 3425.0, path: [ 7. 10. 15.  4. 14. 12. 16. 20.  1. 17.  9. 19.  6. 18.  5. 11.  0. 13.
+  8.  3.  2.], population size: 10
+[2021-10-30 21:56:17,104 | [genetic] | run_genetic_algorithm() ] Current generation: 237
+[2021-10-30 21:56:17,111 | [genetic] | run_genetic_algorithm() ] #237 generation cost: 3425.0, path: [20. 19. 10.  1. 16.  5. 12.  7. 13.  6. 17.  3.  0. 14. 11. 18. 15.  4.
+  9.  8.  2.], population size: 10
+[2021-10-30 21:56:17,112 | [genetic] | run_genetic_algorithm() ] Current generation: 238
+[2021-10-30 21:56:17,119 | [genetic] | run_genetic_algorithm() ] #238 generation cost: 3425.0, path: [ 7.  5. 15.  4. 14. 12.  3. 20.  8. 17.  9. 19.  6. 18. 10. 11.  0. 13.
+  1. 16.  2.], population size: 10
+[2021-10-30 21:56:17,119 | [genetic] | run_genetic_algorithm() ] Current generation: 239
+[2021-10-30 21:56:17,126 | [genetic] | run_genetic_algorithm() ] #239 generation cost: 3425.0, path: [20. 19. 10.  1. 16. 11. 12.  7. 13.  6. 17.  3.  0. 14.  5. 18. 15.  4.
+  9.  8.  2.], population size: 10
+[2021-10-30 21:56:17,126 | [genetic] | run_genetic_algorithm() ] Current generation: 240
+[2021-10-30 21:56:17,140 | [genetic] | run_genetic_algorithm() ] #240 generation cost: 3425.0, path: [20. 19. 10.  1.  7. 11. 12. 16. 13.  6. 17.  3.  0. 14.  5. 18. 15.  4.
+  9.  8.  2.], population size: 10
+[2021-10-30 21:56:17,141 | [genetic] | run_genetic_algorithm() ] Current generation: 241
+[2021-10-30 21:56:17,149 | [genetic] | run_genetic_algorithm() ] #241 generation cost: 3425.0, path: [ 7.  5. 15.  4. 14.  8.  3. 20. 12. 17.  9. 19.  6. 18. 10. 11.  0. 13.
+  1. 16.  2.], population size: 10
+[2021-10-30 21:56:17,149 | [genetic] | run_genetic_algorithm() ] Current generation: 242
+[2021-10-30 21:56:17,155 | [genetic] | run_genetic_algorithm() ] #242 generation cost: 3425.0, path: [20. 19.  0.  1. 16. 11. 12.  7. 13.  6. 17.  3. 10. 14.  5. 18. 15.  4.
+  9.  8.  2.], population size: 10
+[2021-10-30 21:56:17,155 | [genetic] | run_genetic_algorithm() ] Current generation: 243
+[2021-10-30 21:56:17,166 | [genetic] | run_genetic_algorithm() ] #243 generation cost: 3425.0, path: [20. 19. 10.  1.  7. 11. 12. 16. 13.  6. 17.  3.  0. 14.  5. 18. 15.  4.
+  9.  8.  2.], population size: 10
+[2021-10-30 21:56:17,166 | [genetic] | run_genetic_algorithm() ] Current generation: 244
+[2021-10-30 21:56:17,175 | [genetic] | run_genetic_algorithm() ] #244 generation cost: 3425.0, path: [ 7. 10. 17.  4. 14. 12. 16. 20.  1. 15.  9. 19.  6. 18.  5. 11.  0. 13.
+  8.  3.  2.], population size: 10
+[2021-10-30 21:56:17,175 | [genetic] | run_genetic_algorithm() ] Current generation: 245
+[2021-10-30 21:56:17,183 | [genetic] | run_genetic_algorithm() ] #245 generation cost: 3425.0, path: [20. 19. 10.  1. 16. 11. 12.  7. 13.  6. 17.  3.  0. 14.  5. 18. 15.  4.
+  9.  8.  2.], population size: 10
+[2021-10-30 21:56:17,183 | [genetic] | run_genetic_algorithm() ] Current generation: 246
+[2021-10-30 21:56:17,190 | [genetic] | run_genetic_algorithm() ] #246 generation cost: 3425.0, path: [20. 11. 10.  1.  7. 19. 12. 16. 13.  6. 17.  3.  0. 14.  5. 18. 15.  9.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:17,190 | [genetic] | run_genetic_algorithm() ] Current generation: 247
+[2021-10-30 21:56:17,202 | [genetic] | run_genetic_algorithm() ] #247 generation cost: 3425.0, path: [ 7. 10. 17.  4.  1. 12. 16. 20. 14. 15.  9. 19.  6. 18.  5. 11.  0. 13.
+  8.  3.  2.], population size: 10
+[2021-10-30 21:56:17,203 | [genetic] | run_genetic_algorithm() ] Current generation: 248
+[2021-10-30 21:56:17,212 | [genetic] | run_genetic_algorithm() ] #248 generation cost: 3425.0, path: [20. 19. 10.  1. 16. 12. 11.  7. 13. 18. 17.  3.  0. 14.  5.  6. 15.  4.
+  9.  8.  2.], population size: 10
+[2021-10-30 21:56:17,212 | [genetic] | run_genetic_algorithm() ] Current generation: 249
+[2021-10-30 21:56:17,219 | [genetic] | run_genetic_algorithm() ] #249 generation cost: 3425.0, path: [20. 19. 10.  1. 16. 12. 18.  7. 13. 11. 17.  3.  0. 14.  5.  6. 15.  4.
+  9.  8.  2.], population size: 10
+[2021-10-30 21:56:17,219 | [genetic] | run_genetic_algorithm() ] Current generation: 250
+[2021-10-30 21:56:17,225 | [genetic] | run_genetic_algorithm() ] #250 generation cost: 3425.0, path: [ 7. 10. 17.  4.  1. 12. 16. 20. 14. 15.  9.  6. 19. 18. 11.  5.  0. 13.
+  8.  3.  2.], population size: 10
+[2021-10-30 21:56:17,225 | [genetic] | run_genetic_algorithm() ] Current generation: 251
+[2021-10-30 21:56:17,240 | [genetic] | run_genetic_algorithm() ] #251 generation cost: 3425.0, path: [20.  6. 10.  1.  7. 19. 12. 16. 13. 11. 17.  3. 14.  0.  5. 18. 15.  9.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:17,240 | [genetic] | run_genetic_algorithm() ] Current generation: 252
+[2021-10-30 21:56:17,248 | [genetic] | run_genetic_algorithm() ] #252 generation cost: 3425.0, path: [20. 19.  0.  1. 16. 11. 12.  7.  8.  6. 17. 15.  5. 13. 10. 18.  3.  4.
+  9. 14.  2.], population size: 10
+[2021-10-30 21:56:17,248 | [genetic] | run_genetic_algorithm() ] Current generation: 253
+[2021-10-30 21:56:17,254 | [genetic] | run_genetic_algorithm() ] #253 generation cost: 3425.0, path: [20.  6.  8.  1.  7. 19. 12. 16. 13. 11. 17.  3. 14.  0.  5. 18. 15.  9.
+  4. 10.  2.], population size: 10
+[2021-10-30 21:56:17,255 | [genetic] | run_genetic_algorithm() ] Current generation: 254
+[2021-10-30 21:56:17,265 | [genetic] | run_genetic_algorithm() ] #254 generation cost: 3425.0, path: [20.  6. 10.  1.  7. 14. 12. 16. 13. 11. 17.  3. 19.  0.  5. 18. 15.  9.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:17,266 | [genetic] | run_genetic_algorithm() ] Current generation: 255
+[2021-10-30 21:56:17,275 | [genetic] | run_genetic_algorithm() ] #255 generation cost: 3425.0, path: [10.  7. 17.  4.  1. 12. 16. 20. 14. 15. 18.  6. 19.  9. 11.  5.  0. 13.
+  8.  3.  2.], population size: 10
+[2021-10-30 21:56:17,275 | [genetic] | run_genetic_algorithm() ] Current generation: 256
+[2021-10-30 21:56:17,283 | [genetic] | run_genetic_algorithm() ] #256 generation cost: 3425.0, path: [20.  4. 10.  0. 16. 14. 19.  7. 13.  6. 17.  3.  1.  5. 11. 18. 15. 12.
+  9.  8.  2.], population size: 10
+[2021-10-30 21:56:17,283 | [genetic] | run_genetic_algorithm() ] Current generation: 257
+[2021-10-30 21:56:17,290 | [genetic] | run_genetic_algorithm() ] #257 generation cost: 3425.0, path: [20.  6.  8.  1.  7. 19. 12. 16. 13. 11. 17.  3. 14.  0.  9. 18. 15.  5.
+  4. 10.  2.], population size: 10
+[2021-10-30 21:56:17,290 | [genetic] | run_genetic_algorithm() ] Current generation: 258
+[2021-10-30 21:56:17,302 | [genetic] | run_genetic_algorithm() ] #258 generation cost: 3425.0, path: [20. 19.  0.  1. 16. 11. 12.  7.  8.  6. 17. 15.  5. 13. 10. 18.  3.  4.
+  9. 14.  2.], population size: 10
+[2021-10-30 21:56:17,302 | [genetic] | run_genetic_algorithm() ] Current generation: 259
+[2021-10-30 21:56:17,313 | [genetic] | run_genetic_algorithm() ] #259 generation cost: 3425.0, path: [20.  0. 10. 12.  7. 19.  1. 16. 13. 11. 17.  3. 14.  6.  5. 18. 15.  9.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:17,313 | [genetic] | run_genetic_algorithm() ] Current generation: 260
+[2021-10-30 21:56:17,319 | [genetic] | run_genetic_algorithm() ] #260 generation cost: 3425.0, path: [20.  6. 10.  1. 16. 14. 12.  7. 13. 11. 17.  3. 19.  0.  5. 18. 15.  9.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:17,319 | [genetic] | run_genetic_algorithm() ] Current generation: 261
+[2021-10-30 21:56:17,326 | [genetic] | run_genetic_algorithm() ] #261 generation cost: 3425.0, path: [20.  6. 10.  1.  7. 14.  5. 16. 13. 11. 17.  3. 19.  0. 12.  8. 15.  9.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:17,326 | [genetic] | run_genetic_algorithm() ] Current generation: 262
+[2021-10-30 21:56:17,341 | [genetic] | run_genetic_algorithm() ] #262 generation cost: 3425.0, path: [20.  6.  3.  1.  7. 14. 12. 16. 13. 11. 17. 10. 19.  0.  5.  8. 15.  9.
+  4. 18.  2.], population size: 10
+[2021-10-30 21:56:17,342 | [genetic] | run_genetic_algorithm() ] Current generation: 263
+[2021-10-30 21:56:17,350 | [genetic] | run_genetic_algorithm() ] #263 generation cost: 3425.0, path: [20.  6. 10.  1. 16. 14. 12.  7. 13. 11. 17.  3.  9.  0.  5. 18. 15. 19.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:17,350 | [genetic] | run_genetic_algorithm() ] Current generation: 264
+[2021-10-30 21:56:17,356 | [genetic] | run_genetic_algorithm() ] #264 generation cost: 3425.0, path: [15.  6. 14.  1. 16. 10. 12.  9. 13. 11. 17.  3. 19.  0.  5. 18. 20.  7.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:17,356 | [genetic] | run_genetic_algorithm() ] Current generation: 265
+[2021-10-30 21:56:17,369 | [genetic] | run_genetic_algorithm() ] #265 generation cost: 3425.0, path: [20. 12. 10.  0.  7. 19.  1. 16. 13. 14. 17.  3. 11.  6.  5. 18. 15.  9.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:17,370 | [genetic] | run_genetic_algorithm() ] Current generation: 266
+[2021-10-30 21:56:17,378 | [genetic] | run_genetic_algorithm() ] #266 generation cost: 3425.0, path: [10.  7. 17.  4.  1. 12. 16. 20. 14. 15.  9.  6.  0. 18. 11.  5. 19. 13.
+  8.  3.  2.], population size: 10
+[2021-10-30 21:56:17,378 | [genetic] | run_genetic_algorithm() ] Current generation: 267
+[2021-10-30 21:56:17,385 | [genetic] | run_genetic_algorithm() ] #267 generation cost: 3425.0, path: [20. 12. 10.  0.  7. 19.  1. 13. 16. 14. 17.  3. 11.  6.  5. 18. 15.  9.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:17,385 | [genetic] | run_genetic_algorithm() ] Current generation: 268
+[2021-10-30 21:56:17,392 | [genetic] | run_genetic_algorithm() ] #268 generation cost: 3425.0, path: [10.  7. 17.  3.  1. 12. 16. 20. 14. 15.  9.  6.  0. 18. 11.  5. 19. 13.
+  8.  4.  2.], population size: 10
+[2021-10-30 21:56:17,392 | [genetic] | run_genetic_algorithm() ] Current generation: 269
+[2021-10-30 21:56:17,406 | [genetic] | run_genetic_algorithm() ] #269 generation cost: 3425.0, path: [20.  6.  8.  1.  7. 19. 12. 16. 13. 11. 17.  3. 14.  0.  9. 18. 15.  5.
+  4. 10.  2.], population size: 10
+[2021-10-30 21:56:17,406 | [genetic] | run_genetic_algorithm() ] Current generation: 270
+[2021-10-30 21:56:17,413 | [genetic] | run_genetic_algorithm() ] #270 generation cost: 3425.0, path: [10.  7. 17.  4.  1.  3. 16. 20. 13. 15. 18.  6.  0.  9. 11.  5. 19. 14.
+  8. 12.  2.], population size: 10
+[2021-10-30 21:56:17,414 | [genetic] | run_genetic_algorithm() ] Current generation: 271
+[2021-10-30 21:56:17,420 | [genetic] | run_genetic_algorithm() ] #271 generation cost: 3425.0, path: [10.  7. 17.  4.  1.  3. 16. 20. 13. 15. 18.  6.  9.  0. 11.  5. 19. 12.
+  8. 14.  2.], population size: 10
+[2021-10-30 21:56:17,420 | [genetic] | run_genetic_algorithm() ] Current generation: 272
+[2021-10-30 21:56:17,428 | [genetic] | run_genetic_algorithm() ] #272 generation cost: 3425.0, path: [16.  7. 17.  4.  1.  3. 10. 20.  8. 15. 18.  6.  0.  9. 11.  5. 19. 12.
+ 13. 14.  2.], population size: 10
+[2021-10-30 21:56:17,428 | [genetic] | run_genetic_algorithm() ] Current generation: 273
+[2021-10-30 21:56:17,442 | [genetic] | run_genetic_algorithm() ] #273 generation cost: 3425.0, path: [10.  7. 15.  4.  1.  3. 16. 20. 13. 17. 18.  6.  9.  0. 11.  5. 19. 12.
+  8. 14.  2.], population size: 10
+[2021-10-30 21:56:17,443 | [genetic] | run_genetic_algorithm() ] Current generation: 274
+[2021-10-30 21:56:17,450 | [genetic] | run_genetic_algorithm() ] #274 generation cost: 3425.0, path: [20. 12. 10.  0.  7. 19.  1. 13. 16. 14. 17.  9. 11.  6.  5. 18. 15.  3.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:17,450 | [genetic] | run_genetic_algorithm() ] Current generation: 275
+[2021-10-30 21:56:17,457 | [genetic] | run_genetic_algorithm() ] #275 generation cost: 3425.0, path: [20. 12. 10.  0.  3. 19.  1. 13. 16. 14. 17.  9. 11.  6.  5. 18. 15.  7.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:17,457 | [genetic] | run_genetic_algorithm() ] Current generation: 276
+[2021-10-30 21:56:17,472 | [genetic] | run_genetic_algorithm() ] #276 generation cost: 3425.0, path: [20. 12. 10.  0.  7. 19.  1. 13. 16. 14. 17.  4. 11.  6.  5. 18. 15.  3.
+  9.  8.  2.], population size: 10
+[2021-10-30 21:56:17,472 | [genetic] | run_genetic_algorithm() ] Current generation: 277
+[2021-10-30 21:56:17,481 | [genetic] | run_genetic_algorithm() ] #277 generation cost: 3425.0, path: [20. 12. 10.  0.  7. 17.  1. 13. 16. 14. 19.  9. 11.  6.  5. 18. 15.  3.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:17,481 | [genetic] | run_genetic_algorithm() ] Current generation: 278
+[2021-10-30 21:56:17,488 | [genetic] | run_genetic_algorithm() ] #278 generation cost: 3425.0, path: [16.  7. 17.  4.  1.  3. 10. 20. 13. 15. 18.  6. 11.  9.  0.  5. 19. 12.
+  8. 14.  2.], population size: 10
+[2021-10-30 21:56:17,488 | [genetic] | run_genetic_algorithm() ] Current generation: 279
+[2021-10-30 21:56:17,499 | [genetic] | run_genetic_algorithm() ] #279 generation cost: 3425.0, path: [20. 12. 10.  0.  7. 19. 15. 13. 16. 14. 17.  4. 11.  6.  5. 18.  1.  3.
+  9.  8.  2.], population size: 10
+[2021-10-30 21:56:17,499 | [genetic] | run_genetic_algorithm() ] Current generation: 280
+[2021-10-30 21:56:17,513 | [genetic] | run_genetic_algorithm() ] #280 generation cost: 3425.0, path: [ 7. 10. 17.  4.  1.  3. 16. 20. 13.  6. 18. 15.  0.  9. 11.  5. 19. 14.
+  8. 12.  2.], population size: 10
+[2021-10-30 21:56:17,513 | [genetic] | run_genetic_algorithm() ] Current generation: 281
+[2021-10-30 21:56:17,519 | [genetic] | run_genetic_algorithm() ] #281 generation cost: 3425.0, path: [20. 12. 10.  0.  7. 19.  5. 13. 16. 14. 17.  4. 11.  6. 15. 18.  1.  3.
+  9.  8.  2.], population size: 10
+[2021-10-30 21:56:17,519 | [genetic] | run_genetic_algorithm() ] Current generation: 282
+[2021-10-30 21:56:17,526 | [genetic] | run_genetic_algorithm() ] #282 generation cost: 3425.0, path: [20. 12. 10.  0.  7.  5.  1. 13. 18. 14. 17.  9. 11.  6. 19. 16. 15.  3.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:17,526 | [genetic] | run_genetic_algorithm() ] Current generation: 283
+[2021-10-30 21:56:17,543 | [genetic] | run_genetic_algorithm() ] #283 generation cost: 3425.0, path: [20. 12. 10.  0.  7.  8.  1. 13. 16. 14. 17.  9. 11.  6.  5. 18. 15.  3.
+  4. 19.  2.], population size: 10
+[2021-10-30 21:56:17,543 | [genetic] | run_genetic_algorithm() ] Current generation: 284
+[2021-10-30 21:56:17,550 | [genetic] | run_genetic_algorithm() ] #284 generation cost: 3425.0, path: [20. 12. 16.  0.  7.  8.  1. 13. 10. 14. 17.  9. 11.  6.  5. 18. 15.  3.
+  4. 19.  2.], population size: 10
+[2021-10-30 21:56:17,550 | [genetic] | run_genetic_algorithm() ] Current generation: 285
+[2021-10-30 21:56:17,557 | [genetic] | run_genetic_algorithm() ] #285 generation cost: 3425.0, path: [11. 12. 10.  0.  7. 17.  1. 13. 16. 14. 19.  9. 20.  6.  5. 18. 15.  3.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:17,557 | [genetic] | run_genetic_algorithm() ] Current generation: 286
+[2021-10-30 21:56:17,572 | [genetic] | run_genetic_algorithm() ] #286 generation cost: 3425.0, path: [20. 12. 10.  0.  7. 15.  1. 13. 16. 14. 17.  9. 11.  6.  5. 18.  8.  3.
+  4. 19.  2.], population size: 10
+[2021-10-30 21:56:17,572 | [genetic] | run_genetic_algorithm() ] Current generation: 287
+[2021-10-30 21:56:17,580 | [genetic] | run_genetic_algorithm() ] #287 generation cost: 3425.0, path: [11. 12. 10.  0.  7. 17.  1. 13. 14. 16. 19.  9. 20.  6.  5. 18. 15.  3.
+  4.  8.  2.], population size: 10
+[2021-10-30 21:56:17,580 | [genetic] | run_genetic_algorithm() ] Current generation: 288
+[2021-10-30 21:56:17,587 | [genetic] | run_genetic_algorithm() ] #288 generation cost: 3425.0, path: [20. 12. 10.  1.  7.  8.  0. 13. 16.  9. 17. 14. 11.  6.  5. 18. 15.  3.
+  4. 19.  2.], population size: 10
+[2021-10-30 21:56:17,587 | [genetic] | run_genetic_algorithm() ] Current generation: 289
+[2021-10-30 21:56:17,595 | [genetic] | run_genetic_algorithm() ] #289 generation cost: 3425.0, path: [20. 10. 12.  0.  7.  8.  1. 16. 18. 14. 17.  9. 11.  6. 19. 13. 15.  3.
+  4.  5.  2.], population size: 10
+[2021-10-30 21:56:17,596 | [genetic] | run_genetic_algorithm() ] Current generation: 290
+[2021-10-30 21:56:17,611 | [genetic] | run_genetic_algorithm() ] #290 generation cost: 3425.0, path: [20. 17.  3. 19.  7.  0. 15. 13.  5. 14. 18.  4. 11.  6. 16. 12.  1. 10.
+  9.  8.  2.], population size: 10
+[2021-10-30 21:56:17,612 | [genetic] | run_genetic_algorithm() ] Current generation: 291
+[2021-10-30 21:56:17,618 | [genetic] | run_genetic_algorithm() ] #291 generation cost: 3425.0, path: [20. 12. 10.  1.  7.  8.  0. 13. 16.  9. 17. 14. 11.  6.  5. 18. 15.  3.
+  4. 19.  2.], population size: 10
+[2021-10-30 21:56:17,618 | [genetic] | run_genetic_algorithm() ] Current generation: 292
+[2021-10-30 21:56:17,625 | [genetic] | run_genetic_algorithm() ] #292 generation cost: 3425.0, path: [20. 15. 10.  0.  7.  8.  1. 13. 18. 14. 17.  9. 11.  6. 19. 16. 12.  3.
+  4.  5.  2.], population size: 10
+[2021-10-30 21:56:17,625 | [genetic] | run_genetic_algorithm() ] Current generation: 293
+[2021-10-30 21:56:17,639 | [genetic] | run_genetic_algorithm() ] #293 generation cost: 3425.0, path: [ 3. 12.  6.  0.  7.  8.  1. 13. 10. 14. 17.  9. 11. 16.  5. 18. 15. 20.
+  4. 19.  2.], population size: 10
+[2021-10-30 21:56:17,640 | [genetic] | run_genetic_algorithm() ] Current generation: 294
+[2021-10-30 21:56:17,648 | [genetic] | run_genetic_algorithm() ] #294 generation cost: 3425.0, path: [20. 12.  6.  0.  7.  8.  1. 13. 10. 14. 17.  9. 11. 16.  5. 18. 15.  3.
+  4. 19.  2.], population size: 10
+[2021-10-30 21:56:17,648 | [genetic] | run_genetic_algorithm() ] Current generation: 295
+[2021-10-30 21:56:17,654 | [genetic] | run_genetic_algorithm() ] #295 generation cost: 3425.0, path: [12. 20.  1.  0.  7.  8. 10. 13. 16.  9. 17. 14. 11.  6.  5. 18. 15.  3.
+  4. 19.  2.], population size: 10
+[2021-10-30 21:56:17,654 | [genetic] | run_genetic_algorithm() ] Current generation: 296
+[2021-10-30 21:56:17,664 | [genetic] | run_genetic_algorithm() ] #296 generation cost: 3425.0, path: [20. 10. 12.  0.  7.  8.  1. 16. 18. 14. 17.  9. 11.  6. 19.  4. 15.  3.
+ 13.  5.  2.], population size: 10
+[2021-10-30 21:56:17,665 | [genetic] | run_genetic_algorithm() ] Current generation: 297
+[2021-10-30 21:56:17,675 | [genetic] | run_genetic_algorithm() ] #297 generation cost: 3425.0, path: [12. 20.  1.  0.  7.  8. 10. 13. 16.  9. 17. 14. 11.  5.  6. 18. 15.  3.
+  4. 19.  2.], population size: 10
+[2021-10-30 21:56:17,676 | [genetic] | run_genetic_algorithm() ] Current generation: 298
+[2021-10-30 21:56:17,683 | [genetic] | run_genetic_algorithm() ] #298 generation cost: 3425.0, path: [20. 12.  6.  0.  7.  8.  1. 13. 10.  3. 17.  9. 11. 16.  5. 18. 15. 14.
+  4. 19.  2.], population size: 10
+[2021-10-30 21:56:17,683 | [genetic] | run_genetic_algorithm() ] Current generation: 299
+[2021-10-30 21:56:17,690 | [genetic] | run_genetic_algorithm() ] #299 generation cost: 3425.0, path: [20.  4. 10.  1.  7.  8.  0. 13. 16.  9. 18. 14. 11.  6.  5. 17. 15.  3.
+ 12. 19.  2.], population size: 10
+[2021-10-30 21:56:17,690 | [genetic] | run_genetic_algorithm() ] Current generation: 300
+[2021-10-30 21:56:17,702 | [genetic] | run_genetic_algorithm() ] #300 generation cost: 3425.0, path: [12. 20. 19. 17.  7.  8.  1. 10. 16.  9.  0. 14. 11.  6.  5. 18. 15.  3.
+  4. 13.  2.], population size: 10
