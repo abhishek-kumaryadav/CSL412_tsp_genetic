@@ -1,2 +1,4 @@
 0:0 Intro
-
+01:14 Basic Code Flow
+05:15 Detailed Explanation
+17:53 Tests
